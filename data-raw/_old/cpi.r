@@ -1,6 +1,10 @@
 require("data.table")
 require("readxl")
 
+# 2012 cannot be read as xls -- I just manually download it and export to XLSX
+# see https://github.com/libxls/libxls/issues/75
+cpi_2012_xlsx_path = paste0("C:/Users/", Sys.info()["effective_user"], "/google_drive/research/_packages/ipsed/data-raw/CPI2012_Results.xlsx")
+
 #####
 # 2019
 #####
@@ -114,8 +118,6 @@ dt_12 = data.table(read_excel(cpi_2012_xlsx_path, sheet = 1, skip = 2,
                               col_names = c("cpi_rank", "country_name", "region", "cpi_score", "dup1", "cpi_sources", "cpi_se", "cpi_ci_low", "cpi_ci_high", "cpi_min", "cpi_max", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_imd_wcy", "cpi_prs_icrg", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol", "cpi_eiu_cr", "cpi_ihs_gi", "cpi_perc_arg", "cpi_ti_bps", "cpi_fh_nit")))
 # year
 dt_12[, year := 2012]
-
-"https://images.transparencycdn.org/images/2012_CPI_DataPackage.zip"
 
 #####
 # 2011
@@ -308,7 +310,7 @@ ggplot(cpi[year %in% (2011-1):(2012+1), ], mapping = aes(fill = factor(year), co
 names = copy(cpi)[year == 1985, N := TRUE][N == TRUE, ][["country_name"]]
 sdt = copy(cpi)[country_name %in% names, ]
 sdt = sdt[, .(mean_rescaled = mean(cpi_rescaled),
-             mean_linked = mean(cpi_linked)), by = c("year")]
+              mean_linked = mean(cpi_linked)), by = c("year")]
 sdt = melt(sdt, id.vars = "year")
 ggplot(sdt, aes(x = year, y = value, color = variable, group = variable)) + geom_point() + geom_line() + geom_vline(xintercept = 2011.5)
 
