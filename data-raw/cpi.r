@@ -1,4 +1,5 @@
 require("data.table")
+require("ggplot2")
 require("readxl")
 
 #####
@@ -205,49 +206,126 @@ colnames(dt_80) = c("country_name", "cpi_score", "cpi_sources", "year")
 cpi = rbindlist(c(list(dt_19, dt_18, dt_17, dt_16, dt_15, dt_14, dt_13, dt_12, dt_11, dt_10), list_09, list(dt_93, dt_88, dt_80)), fill=TRUE)
 
 #####
-# clean data
-#####
-# minimum & maximum
-pattern = "^(-{0,1}[[:digit:]]).([[:digit:]])[^[:digit:]]*([[:digit:]]){0,2}.([[:digit:]]){0,1}$"
-cpi[!is.na(interval), `:=`(cpi_min = as.numeric(gsub(pattern, "\\1.\\2", interval)),
-                           cpi_max = as.numeric(gsub(pattern, "\\3.\\4", interval))), by = c("country_name", "year")]
-
-# qa check
-# View(cpi[!is.na(interval) & (is.na(cpi_min) | is.na(cpi_max)), c("country_name", "country_code", "year", "cpi_score", "interval", "cpi_min", "cpi_max"), with = FALSE])
-
-#####
 # clean country names
 #####
+# qa checks
+# sort(unique(cpi[["country_name"]]))
+
 # character conversions
-cpi[, country_name := gsub(",|\\(|\\)|^the ", "", gsub("-| the ", " ", gsub("´|’", "'", country_name)))]
+country_names = cpi[["country_name"]]
+country_names = gsub("&", "and", country_names)
+country_names = gsub("´|’", "'", country_names)
+country_names = gsub("\\.|,|\\(|\\)", "", country_names)
+country_names = tolower(country_names)
+country_names = gsub(" the | of | of the ", " ", country_names)
+country_names = gsub("  ", " ", country_names)
+country_names = gsub("^the | of$| the$", "", country_names)
 
 # lowercase
-cpi[, country_name := tolower(country_name)]
+cpi[, country_name := country_names]
 
-# other conversions
+# brunei
+cpi[grep("brunei", country_name), country_name := "brunei"]
+# cabo verde
+cpi[grep("verde", country_name), country_name := "cabo verde"]
+# cote d'ivoire
+cpi[grep("voire|ivory", country_name), country_name := "cote d'ivoire"]
+# czechia
+cpi[grep("czech", country_name), country_name := "czechia"]
+# dominican republic
+cpi[grep("dominican", country_name), country_name := "dominican republic"]
+# eswatini
+cpi[grep("swaziland", country_name), country_name := "eswatini"]
+# guinea bissau
+cpi[grep("bissau", country_name), country_name := "guinea-bissau"]
+# kiribati
+cpi[grep("ribati", country_name), country_name := "kiribati"]
+# kyrgyzstan
+cpi[grep("kyrgyz", country_name), country_name := "kyrgyzstan"]
+# kuwait
+cpi[grep("kuw.it", country_name), country_name := "kuwait"]
+# macao
+cpi[grep("maca", country_name), country_name := "macao"]
+# macedonia
+cpi[grep("maced", country_name), country_name := "north macedonia"]
+# moldova
+cpi[grep("moldov", country_name), country_name := "moldova"]
+# palestine
+cpi[grep("palest", country_name), country_name := "palestine"]
+# slovakia
+cpi[grep("slovak", country_name), country_name := "slovakia"]
+# vietnam
+cpi[grep("viet {0,1}nam", country_name), country_name := "vietnam"]
+# usa
+cpi[grep("^usa$|united states", country_name), country_name := "united states"]
+# qa check
+# grep("brunei|verde|voire|ivory|czech|dominican|swaziland|bissau|ribati|kyrgyz|kuw.it|maca|maced|moldov|palest|slovak|viet {0,1}nam|united states", unique(cpi[["country_name"]]), value = TRUE)
+
+# dissolution: soviet union
 cpi[country_name %in% c("russia ussr", "russia"), country_name := c("soviet union", "russia")[(year > 1991) + 1], by = c("year")]
-# unique(cpi[country_name %in% c("russia", "ussr"), c("year", "country_name"), with = FALSE])
-cpi[(country_name == "korea") & (year < 1997), country_name := c("korea south")]
-# View(cpi[grep("korea", country_name), ])
-cpi[country_name %in% c("congo", "congo republic", "republic of congo"), country_name := "congo-brazzaville"]
-# View(cpi[grep("congo", country_name), ])
+# qa check
+(l = grep("russia|soviet", unique(cpi[["country_name"]]), value = TRUE))
+length(l) == 2
+
+# split: congos
+cpi[country_name %in% c("congo democratic republic", "democratic republic congo"), country_name := "congo-kinshasa"]
+cpi[country_name %in% c("congo", "congo republic", "republic congo", "congo brazzaville"), country_name := "congo-brazzaville"]
+# qa check
+(l = grep("congo", unique(cpi[["country_name"]]), value = TRUE))
+length(l) == 2
+
+# split: czechoslovakia (occurred in 1993 but CPI didn't add Slovakia until 1997)
+cpi[(country_name %in% c("czechia")) & (year < 1997), country_name := c("czechoslovakia")]
+(l = grep("czech|slovak", unique(cpi[["country_name"]]), value = TRUE))
+length(l) == 3
+
+# split: koreas (occurred in 1950 but CPI didn't add North until 1997)
+cpi[(country_name %in% c("korea")) & (year < 1997), country_name := c("korea south")]
+cpi[(country_name %in% c("south korea")), country_name := c("korea south")]
+# qa check
+(l = grep("korea", unique(cpi[["country_name"]]), value = TRUE))
+length(l) == 2
+
+# split: sudans
 cpi[(country_name == "sudan") & (year >= 2013), country_name := "sudan north"]
-# View(cpi[grep("sudan", country_name), ])
+(l = grep("sudan", unique(cpi[["country_name"]]), value = TRUE))
+length(l) == 3
 
 # qa checks
-# View(cpi[(is.na(country_name)) | (country_name %in% c("Country", "Country/Territory", "REGIONAL AVERAGE", "Russia (USSR)")), ])
+# View(cpi[is.na(country_name), ])
+# View(cpi[(is.na(country_name)) | (country_name %in% c("Country", "Country/Territory", "REGIONAL AVERAGE")), ])
 # sort(unique(cpi[["country_name"]]))
 
 #####
 # convert country names
 #####
 # countries = ipsed::countries
+# countries = fread("C:/Users/desk/google_drive/research/_packages/ipsed/data-raw/countries.csv")
 # convert country codes
 short_convert = setNames(countries[["master_short"]], countries[["cpi_country"]])
 cpi[, country_code := short_convert[country_name]]
 # convert country names
 long_convert = setNames(countries[["master_long"]], countries[["cpi_country"]])
 cpi[, country_name := long_convert[country_name]]
+
+# qa checks
+# dim(cpi[is.na(country_name2), ])
+
+#####
+# convert cpi score to numeric
+#####
+cpi[, cpi_score := gsub(",", ".", cpi_score)]
+cpi[, cpi_score := as.numeric(cpi_score)]
+
+#####
+# minimum & maximum from interval
+#####
+pattern = "^(-{0,1}[[:digit:]]).([[:digit:]])[^[:digit:]]*([[:digit:]]){0,2}.([[:digit:]]){0,1}$"
+cpi[!is.na(interval), `:=`(cpi_min = as.numeric(gsub(pattern, "\\1.\\2", interval)),
+                           cpi_max = as.numeric(gsub(pattern, "\\3.\\4", interval))), by = c("country_name", "year")]
+
+# qa check
+# View(cpi[!is.na(interval) & (is.na(cpi_min) | is.na(cpi_max)), c("country_name", "country_code", "year", "cpi_score", "interval", "cpi_min", "cpi_max"), with = FALSE])
 
 #####
 # version
@@ -312,7 +390,7 @@ ggplot(cpi, aes(x = year, y = cpi_linked, group = 1)) +
   theme(legend.position="none") +
   geom_vline(xintercept = 2011.5)
 
-View(cpi[year %in% 2005:2011 & country_name == "Germany", ])
+View(cpi[year %in% 2005:2011 & country_name == "germany", ])
 
 #####
 # subset data
