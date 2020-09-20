@@ -1,5 +1,6 @@
 require("data.table")
 require("ggplot2")
+require("gridExtra")
 require("readxl")
 
 #####
@@ -342,7 +343,7 @@ cpi[year %in% 1980:1985, cpi_weight := 1/6]
 # View(cpi[is.na(version), ])
 
 #####
-# link cpi scores across 2011-2012
+# rescale cpi scores to same scale 0-1
 #####
 # rescale values to 0-1
 cpi[cpi_version %in% 1:2, cpi_rescaled := cpi_score / 10]
@@ -351,6 +352,9 @@ cpi[cpi_version %in% 3, cpi_rescaled := cpi_score / 100]
 cpi[cpi_rescaled > 1, `:=`(cpi_score = cpi_score / 10,
                            cpi_rescaled = cpi_rescaled / 10)]
 
+#####
+# link cpi scores across 2011-2012: method 1
+#####
 # linked values: set both 2012 and 2011 as having same standard deviation
 cpi[year > 2011, cpi_linked := cpi_rescaled]
 var12 = var(cpi[year == 2012, ][["cpi_rescaled"]])
@@ -363,19 +367,41 @@ m11 = mean(cpi[year == 2011, ][["cpi_linked"]])
 diff = m12 - m11
 cpi[year < 2012, cpi_linked := cpi_linked + diff]
 
-# cpi[year < 2012, cpi_linked := (cpi_rescaled - m)^.9]
-# cpi[year < 2012, cpi_linked := cpi_linked / (max(cpi_linked) - min(cpi_linked))]
+#####
+# link cpi scores across 2011-2012: method 2
+#####
+transfunc = Vectorize(function(x, e = 1.1, m = .5) {
+  return(abs(x - m)^e * sign(x - m) + m)
+})
+onefunc = function(v) {
+  v = (v - mean(v)) / (max(v) - min(v))
+  v = v - min(v)
+  return(v)
+}
 
-ks.test(cpi[year == 2011, ][["cpi_rescaled"]], cpi[year == 2012, ][["cpi_rescaled"]])
-ks.test(cpi[year == 2011, ][["cpi_linked"]], cpi[year == 2012, ][["cpi_linked"]])
+cpi[year >= 2012, cpi_linked := cpi_rescaled]
+cpi[year <= 2011, cpi_linked := transfunc(cpi_rescaled, e = 1.1, m = .625), by = c("year")]
 
-# # visual inspection suggests the distributions sharply changed from 2011 to 2012
-# require("ggplot2")
-ggplot(cpi[year %in% (2011-3):(2012+3), ], mapping = aes(fill = year>=2012, color = year>=2012, x = cpi_rescaled)) + geom_density (alpha = .25)
-ggplot(cpi[year %in% (2011-3):(2012+3), ], mapping = aes(fill = year>=2012, color = year>=2012, x = cpi_linked)) + geom_density (alpha = .25)
-# ggplot(cpi[year %in% (2011-5):(2012+5), ], mapping = aes(fill = factor(year), color = factor(year), x = cpi_rescaled)) + geom_density (alpha = .25)
-ggplot(cpi[year %in% (2011-5):(2012+5), ], mapping = aes(fill = factor(year), color = factor(year), x = cpi_linked)) + geom_density (alpha = .25)
-ggplot(cpi[year %in% (2011-1):(2012+1), ], mapping = aes(fill = factor(year), color = factor(year), x = cpi_linked)) + geom_density (alpha = .25)
+range(cpi[year == 2012, ][["cpi_linked"]])
+# hist(cpi[year == 2012, ][["cpi_linked"]], (0:20)/20)
+range(cpi[year == 2011, ][["cpi_linked"]])
+# hist(cpi[year == 2011, ][["cpi_linked"]], (0:20)/20)
+
+#####
+# diagnostics for linking cpi scores
+#####
+# ks test
+dis1 = cpi[year %in% (2011:2011-4), ][["cpi_linked"]]
+dis2 = cpi[year %in% (2012:2012+4), ][["cpi_linked"]]
+ks.test(dis1, dis2)
+
+# distribution plots
+gdt = cpi[year %in% (2011-4):(2012+4), ]
+g1 = ggplot(gdt, mapping = aes(fill = factor(year), color = factor(year), x = cpi_rescaled)) + geom_density (alpha = .25)
+g2 = ggplot(gdt, mapping = aes(fill = factor(year), color = factor(year), x = cpi_linked)) + geom_density (alpha = .25)
+g3 = ggplot(gdt, mapping = aes(fill = year>=2012, color = year>=2012, x = cpi_rescaled)) + geom_density (alpha = .25)
+g4 = ggplot(gdt, mapping = aes(fill = year>=2012, color = year>=2012, x = cpi_linked)) + geom_density (alpha = .25)
+grid.arrange(g1,g2,g3,g4)
 
 names = copy(cpi)[year == 1985, N := TRUE][N == TRUE, ][["country_name"]]
 sdt = copy(cpi)[country_name %in% names, ]
@@ -384,13 +410,11 @@ sdt = sdt[, .(mean_rescaled = mean(cpi_rescaled),
 sdt = melt(sdt, id.vars = "year")
 ggplot(sdt, aes(x = year, y = value, color = variable, group = variable)) + geom_point() + geom_line() + geom_vline(xintercept = 2011.5)
 
-ggplot(cpi, aes(x = year, y = cpi_linked, group = 1)) +
+ggplot(cpi[country_name %in% names, ], aes(x = year, y = cpi_linked, group = 1)) +
   facet_wrap(~ country_code) +
   geom_line() +
   theme(legend.position="none") +
   geom_vline(xintercept = 2011.5)
-
-View(cpi[year %in% 2005:2011 & country_name == "germany", ])
 
 #####
 # subset data
