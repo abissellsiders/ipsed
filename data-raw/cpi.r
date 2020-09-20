@@ -5,13 +5,11 @@ require("readxl")
 # 2019
 #####
 # download file
-url = "https://images.transparencycdn.org/images/2019_CPI_FULLDATA.zip"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2019.xlsx"
 path = tempfile()
-dir = tempdir()
 download.file(url, path, mode="wb")
 # read file
-path2 = unzip(path, "2019_CPI_FULLDATA/CPI2019.xlsx", exdir=dir)
-dt_19 = data.table(read_excel(path2, sheet = 1, skip = 3,
+dt_19 = data.table(read_excel(path, sheet = 1, skip = 3,
                               col_names = c("country_name", "country_code", "region", "cpi_score", "cpi_rank", "cpi_se", "cpi_sources", "cpi_ci_low", "cpi_ci_high", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_eiu_cr", "cpi_fh_nit", "cpi_gi_crr", "cpi_imd_wcy", "cpi_perc_arg", "cpi_prs_icrg", "cpi_vodp", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol")))
 # year
 dt_19[, year := 2019]
@@ -20,13 +18,11 @@ dt_19[, year := 2019]
 # 2018
 #####
 # download file
-url = "https://images.transparencycdn.org/images/2018_CPI_FullResults.zip"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2018.xlsx"
 path = tempfile()
-dir = tempdir()
 download.file(url, path, mode="wb")
 # read file
-path2 = unzip(path, "2018_CPI_FullResults/2018_CPI_FullDataSet.xlsx", exdir=dir)
-dt_18 = data.table(read_excel(path2, sheet = 1, skip = 3,
+dt_18 = data.table(read_excel(path, sheet = 1, skip = 3,
                               col_names = c("country_name", "country_code", "region", "cpi_score", "cpi_rank", "cpi_se", "cpi_sources", "cpi_ci_high", "cpi_ci_low", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_eiu_cr", "cpi_fh_nit", "cpi_gi_crr", "cpi_imd_wcy", "cpi_perc_arg", "cpi_prs_icrg", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol", "cpi_vodp")))
 # year
 dt_18[, year := 2018]
@@ -35,7 +31,7 @@ dt_18[, year := 2018]
 # 2017
 #####
 # download file
-url = "https://images.transparencycdn.org/images/CPI2017_FullDataSet.xlsx"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2017.xlsx"
 path = tempfile()
 download.file(url, path, mode="wb")
 # read file
@@ -53,7 +49,7 @@ dt_17[, year := 2017]
 # 2016
 #####
 # download file
-url = "https://images.transparencycdn.org/images/CPI2016_FullDataSetWithRegionalTables_200409_135127.xlsx"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2016.xlsx"
 path = tempfile()
 download.file(url, path, mode="wb")
 # read file
@@ -66,7 +62,7 @@ dt_16[, year := 2016]
 # 2015
 #####
 # download file
-url = "https://images.transparencycdn.org/images/CPI_2015_FullDataSet.xlsx"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2015.xlsx"
 path = tempfile()
 download.file(url, path, mode="wb")
 # read file
@@ -79,13 +75,12 @@ dt_15[, year := 2015]
 # 2014
 #####
 # download file
-url = "https://images.transparencycdn.org/images/CPI2014_DataBundle-2.zip"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2014.xlsx"
 path = tempfile()
 dir = tempdir()
 download.file(url, path, mode="wb")
 # read file
-path2 = unzip(path, "CPI2014_DataBundle/CPI 2014_FullDataSet.xlsx", exdir=dir)
-dt_14 = data.table(read_excel(path2, sheet = 1, skip = 1,
+dt_14 = data.table(read_excel(path, sheet = 1, skip = 1,
                               col_names = c("cpi_rank", "country_name", "country_code", "region", "cpi_score", "cpi_sources", "cpi_se", "cpi_min", "cpi_max", "cpi_ci_low", "cpi_ci_high", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_imd_wcy", "cpi_prs_icrg", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol", "cpi_eiu_cr", "cpi_ihs_gi", "cpi_perc_arg", "cpi_fh_nit")))
 # year
 dt_14[, year := 2014]
@@ -94,13 +89,12 @@ dt_14[, year := 2014]
 # 2013
 #####
 # download file
-url = "https://images.transparencycdn.org/images/CPI2013_DataBundle-2.zip"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2013.xlsx"
 path = tempfile()
 dir = tempdir()
 download.file(url, path, mode="wb")
 # read file
-path2 = unzip(path, "CPI2013_DataBundle-2/CPI2013_GLOBAL_WithDataSourceScores.xls", exdir=dir)
-dt_13 = data.table(read_excel(path2, sheet = 1, skip = 3,
+dt_13 = data.table(read_excel(path, sheet = 1, skip = 3,
                               col_names = c("cpi_rank", "country_name", "country_code", "ifs_code", "region", "dup1", "cpi_score", "cpi_sources", "cpi_se", "cpi_ci_low", "cpi_ci_high", "cpi_min", "cpi_max", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_imd_wcy", "cpi_prs_icrg", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol", "cpi_eiu_cr", "cpi_ihs_gi", "cpi_perc_arg", "cpi_ti_bps", "cpi_fh_nit")))
 # year
 dt_13[, year := 2013]
@@ -108,27 +102,28 @@ dt_13[, year := 2013]
 #####
 # 2012
 #####
-# can't be read in libxlsx -- see top of cpi.r
+# download file
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2012.xlsx"
+path = tempfile()
+dir = tempdir()
+download.file(url, path, mode="wb")
 # read file
-dt_12 = data.table(read_excel(cpi_2012_xlsx_path, sheet = 1, skip = 2,
+dt_12 = data.table(read_excel(path, sheet = 1, skip = 2,
                               col_names = c("cpi_rank", "country_name", "region", "cpi_score", "dup1", "cpi_sources", "cpi_se", "cpi_ci_low", "cpi_ci_high", "cpi_min", "cpi_max", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_imd_wcy", "cpi_prs_icrg", "cpi_wb_cpia", "cpi_wef_eos", "cpi_wjp_rol", "cpi_eiu_cr", "cpi_ihs_gi", "cpi_perc_arg", "cpi_ti_bps", "cpi_fh_nit")))
 # year
 dt_12[, year := 2012]
-
-"https://images.transparencycdn.org/images/2012_CPI_DataPackage.zip"
 
 #####
 # 2011
 #####
 # download file
-url = "https://raw.githubusercontent.com/jeegarmaru/CPIDataSet/master/CPI2011_DataPackage.zip"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2011.xlsx"
 path = tempfile()
 dir = tempdir()
 download.file(url, path, mode="wb")
 # read file
-path2 = unzip(path, "CPI2011_DataPackage/CPI2011_Results.xls", exdir=dir)
-dt_11 = data.table(read_excel(path2, sheet = 1, skip = 1,
-                              col_names = c("cpi_rank", "country_name", "cpi_score", "cpi_rank", "cpi_sources", "cpi_se", "cpi_min", "cpi_max", "cpi_ci_low", "cpi_ci_high", "cpi_adb_gr", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_eiu_cr", "cpi_fh_nit", "cpi_ihs_gi", "cpi_imd_wcy_2010", "cpi_imd_wcy", "cpi_perc_arg_2010", "cpi_perc_arg", "cpi_prs_icrg", "cpi_ti_bps", "cpi_wb_cpia", "cpi_wef_eos_2010", "cpi_wef_eos", "cpi_wjp_rol")))
+dt_11 = data.table(read_excel(path, sheet = 1, skip = 2, range = "A1:AA184",
+                              col_names = c("cpi_rank", "country_name", "cpi_score", "dup1", "cpi_sources", "cpi_se", "cpi_min", "cpi_max", "cpi_ci_low", "cpi_ci_high", "cpi_adb_gr", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_eiu_cr", "cpi_fh_nit", "cpi_ihs_gi", "cpi_imd_wcy_2010", "cpi_imd_wcy", "cpi_perc_arg_2010", "cpi_perc_arg", "cpi_prs_icrg", "cpi_ti_bps", "cpi_wb_cpia", "cpi_wef_eos_2010", "cpi_wef_eos", "cpi_wjp_rol")))
 # year
 dt_11[, year := 2011]
 
@@ -136,7 +131,7 @@ dt_11[, year := 2011]
 # 2010
 #####
 # download file
-url = "https://raw.githubusercontent.com/jeegarmaru/CPIDataSet/master/CPI%2B2010%2Bresults_pls_standardized_data.xls"
+url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2010.xlsx"
 path = tempfile()
 download.file(url, path, mode="wb")
 # read file
@@ -148,19 +143,19 @@ dt_10[, year := 2010]
 #####
 # 2009-1997
 #####
-urls_csv = c("https://images.transparencycdn.org/images/CPI-2009-new_200601_120052.csv",
-             "https://images.transparencycdn.org/images/CPI-Archive-2008-2.csv",
-             "https://images.transparencycdn.org/images/CPI-2007-new_200602_092501.csv",
-             "https://images.transparencycdn.org/images/CPI-2006-new_200602_095933.csv",
-             "https://images.transparencycdn.org/images/CPI-2005_200602_104136.csv",
-             "https://images.transparencycdn.org/images/CPI-2004_200602_110140.csv",
-             "https://images.transparencycdn.org/images/CPI-2003_200602_113929.csv",
-             "https://images.transparencycdn.org/images/CPI-2002_200602_115328.csv",
-             "https://images.transparencycdn.org/images/CPI-2001_200603_082938.csv",
-             "https://images.transparencycdn.org/images/CPI-2000_200603_083012.csv",
-             "https://images.transparencycdn.org/images/CPI-1999_200603_083052.csv",
-             "https://images.transparencycdn.org/images/CPI-1998_200603_083119.csv",
-             "https://images.transparencycdn.org/images/CPI-Archive-1997.csv")
+urls_csv = c("https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2009.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2008.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2007.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2006.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2005.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2004.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2003.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2002.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2001.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2000.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_1999.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_1998.csv",
+             "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_1997.csv")
 download_fread_csv = function(x) {
   year = 2010 - x
   url = urls_csv[x]
@@ -214,13 +209,13 @@ cpi = rbindlist(c(list(dt_19, dt_18, dt_17, dt_16, dt_15, dt_14, dt_13, dt_12, d
 pattern = "^(-{0,1}[[:digit:]]).([[:digit:]])[^[:digit:]]*([[:digit:]]){0,2}.([[:digit:]]){0,1}$"
 cpi[!is.na(interval), `:=`(cpi_min = as.numeric(gsub(pattern, "\\1.\\2", interval)),
                            cpi_max = as.numeric(gsub(pattern, "\\3.\\4", interval))), by = c("country_name", "year")]
+
+# qa check
 # View(cpi[!is.na(interval) & (is.na(cpi_min) | is.na(cpi_max)), c("country_name", "country_code", "year", "cpi_score", "interval", "cpi_min", "cpi_max"), with = FALSE])
 
 #####
 # clean country names
 #####
-# View(cpi[(is.na(country_name)) | (country_name %in% c("Country", "Country/Territory", "REGIONAL AVERAGE", "Russia (USSR)")), ])
-
 # character conversions
 cpi[, country_name := gsub(",|\\(|\\)|^the ", "", gsub("-| the ", " ", gsub("´|’", "'", country_name)))]
 
@@ -237,11 +232,8 @@ cpi[country_name %in% c("congo", "congo republic", "republic of congo"), country
 cpi[(country_name == "sudan") & (year >= 2013), country_name := "sudan north"]
 # View(cpi[grep("sudan", country_name), ])
 
-"cã'te d'ivoire"
-"cã'te dâ'ivoire"
-"coì‚te d ì\u0081ivoire"
-
-
+# qa checks
+# View(cpi[(is.na(country_name)) | (country_name %in% c("Country", "Country/Territory", "REGIONAL AVERAGE", "Russia (USSR)")), ])
 # sort(unique(cpi[["country_name"]]))
 
 #####
