@@ -121,8 +121,10 @@ url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/cpi/cpi_2011.
 path = tempfile()
 dir = tempdir()
 download.file(url, path, mode="wb")
+
+path = "C:/Users/desk/google_drive/research/_packages/ipsed/data-raw/cpi/cpi_2011.xlsx"
 # read file
-dt_11 = data.table(read_excel(path, sheet = 1, skip = 2, range = "A1:AA184",
+dt_11 = data.table(read_excel(path, sheet = 1, skip = 2,
                               col_names = c("cpi_rank", "country_name", "cpi_score", "dup1", "cpi_sources", "cpi_se", "cpi_min", "cpi_max", "cpi_ci_low", "cpi_ci_high", "cpi_adb_gr", "cpi_adb_cpia", "cpi_bf_sgi", "cpi_bf_bti", "cpi_eiu_cr", "cpi_fh_nit", "cpi_ihs_gi", "cpi_imd_wcy_2010", "cpi_imd_wcy", "cpi_perc_arg_2010", "cpi_perc_arg", "cpi_prs_icrg", "cpi_ti_bps", "cpi_wb_cpia", "cpi_wef_eos_2010", "cpi_wef_eos", "cpi_wjp_rol")))
 # year
 dt_11[, year := 2011]
