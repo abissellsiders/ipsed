@@ -1,313 +1,313 @@
-master_short,master_long,iso_3166_1_numeric,iso_3166_1_alpha_3,iso_3166_1,maddison_code,maddison_long,polity_scode,polity_country,empirenation_code,empirenation_country,wgi_country,cpi_country,oecd,euro_communist,continent
-AFG,Afghanistan,4,AFG,Afghanistan,AFG,Afghanistan,AFG,Afghanistan,700,Afghanistan,Afghanistan,afghanistan,,,Asia
-ALA,Aland Islands,248,ALA,Åland Islands,,,,,,,,,,,Europe
-ALB,Albania,8,ALB,Albania,ALB,Albania,ALB,Albania,339,Albania,Albania,albania,,1,Europe
-DZA,Algeria,12,DZA,Algeria,DZA,Algeria,ALG,Algeria,615,Algeria,Algeria,algeria,,,Africa
-ASM,American Samoa,16,ASM,American Samoa,,,,,,,,,,,Asia
-AND,Andorra,20,AND,Andorra,,,,,,,,,,,Europe
-AGO,Angola,24,AGO,Angola,AGO,Angola,ANG,Angola,540,Angola,Angola,angola,,,Africa
-AIA,Anguilla,660,AIA,Anguilla,,,,,,,,,,,North America
-ATA,Antarctica,10,ATA,Antarctica,,,,,,,,,,,Antarctica
-ATG,Antigua and Barbuda,28,ATG,Antigua and Barbuda,,,,,,,,,,,North America
-ARG,Argentina,32,ARG,Argentina,ARG,Argentina,ARG,Argentina,160,Argentina,Argentina,argentina,,,South America
-ARM,Armenia,51,ARM,Armenia,ARM,Armenia,ARM,Armenia,371,Armenia,Armenia,armenia,,,Asia
-ABW,Aruba,533,ABW,Aruba,,,,,,,,,,,North America
-AUS,Australia,36,AUS,Australia,AUS,Australia,AUL,Australia,900,Australia,Australia,australia,1,,Asia
-AUT,Austria,40,AUT,Austria,AUT,Austria,AUS,Austria,305,Austria,Austria,austria,1,,Europe
-AZE,Azerbaijan,31,AZE,Azerbaijan,AZE,Azerbaijan,AZE,Azerbaijan,373,Azerbaijan,Azerbaijan,azerbaijan,,,Asia
-BHS,Bahamas,44,BHS,Bahamas,,,,,,,,bahamas,,,North America
-BAD,Baden,,,,,,BAD,Baden,,,,,,,Europe
-BHR,Bahrain,48,BHR,Bahrain,BHR,Bahrain,BAH,Bahrain,,,Bahrain,bahrain,,,Asia
-BGD,Bangladesh,50,BGD,Bangladesh,BGD,Bangladesh,BNG,Bangladesh,771,Bangladesh,Bangladesh,bangladesh,,,Asia
-BAV,Bavaria,,,,,,BAV,Bavaria,,,,,,,Europe
-BRB,Barbados,52,BRB,Barbados,BRB,Barbados,,,,,,barbados,,,North America
-BLR,Belarus,112,BLR,Belarus,BLR,Belarus,BLR,Belarus,370,Belarus,Belarus,belarus,,,Europe
-BEL,Belgium,56,BEL,Belgium,BEL,Belgium,BEL,Belgium,211,Belgium,Belgium,belgium,1,,Europe
-BLZ,Belize,84,BLZ,Belize,,,,,80,Belize,Belize,belize,,,North America
-BEN,Benin,204,BEN,Benin,BEN,Benin,BEN,Benin,434,Benin,Benin,benin,,,North America
-BMU,Bermuda,60,BMU,Bermuda,,,,,,,,,,,North America
-BTN,Bhutan,64,BTN,Bhutan,,,BHU,Bhutan,760,Bhutan,Bhutan,bhutan,,,Asia
-BOL,Bolivia,68,BOL,Bolivia (Plurinational State of),BOL,Bolivia (Plurinational State of),BOL,Bolivia,145,Bolivia,Bolivia,bolivia,,,South America
-BOL,Bolivia,68,BOL,Bolivia (Plurinational State of),BOL,Bolivia (Plurinational State of),BOL,Bolivia,145,Bolivia,Bolivia (Plurinational State of),bolivia,,,South America
-BES,"Bonaire, Sint Eustatius and Saba",535,BES,"Bonaire, Sint Eustatius and Saba",,,,,,,,,,,North America
-BIH,Bosnia and Herzegovina,70,BIH,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BOS,Bosnia,346,Bosnia and Herzegovina,Bosnia & Herzegovina,bosnia and herzegovina,,,Europe
-BIH,Bosnia and Herzegovina,70,BIH,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BOS,Bosnia,346,Bosnia and Herzegovina,Bosnia and Herzegovina,bosnia and herzegovina,,,Europe
-BWA,Botswana,72,BWA,Botswana,BWA,Botswana,BOT,Botswana,571,Botswana,Botswana,botswana,,,Africa
-BVT,Bouvet Island,74,BVT,Bouvet Island,,,,,,,,,,,North America
-BRA,Brazil,76,BRA,Brazil,BRA,Brazil,BRA,Brazil,140,Brazil,Brazil,brazil,,,South America
-IOT,United Kingdom Indian Ocean Territory,86,IOT,British Indian Ocean Territory,,,,,,,,,,,Asia
-BRN,Brunei,96,BRN,Brunei Darussalam,,,,,,,,brunei,,,Asia
-BRN,Brunei,96,BRN,Brunei Darussalam,,,,,,,,brunei darussalam,,,Asia
-BGR,Bulgaria,100,BGR,Bulgaria,BGR,Bulgaria,BUL,Bulgaria,355,Bulgaria,Bulgaria,bulgaria,,1,Europe
-BFA,Burkina Faso,854,BFA,Burkina Faso,BFA,Burkina Faso,BFO,Burkina Faso,439,Burkina Faso,Burkina Faso,burkina faso,,,Africa
-BDI,Burundi,108,BDI,Burundi,BDI,Burundi,BUI,Burundi,516,Burundi,Burundi,burundi,,,Africa
-CPV,Cabo Verde,132,CPV,Cabo Verde,CPV,Cabo Verde,CAP,Cape Verde,,,,cabo verde,,,Africa
-CPV,Cabo Verde,132,CPV,Cabo Verde,CPV,Cabo Verde,CAP,Cape Verde,,,,cape verde,,,Africa
-KHM,Cambodia,116,KHM,Cambodia,KHM,Cambodia,CAM,Cambodia,811,Cambodia,Cambodia,cambodia,,,Asia
-CMR,Cameroon,120,CMR,Cameroon,CMR,Cameroon,CAO,Cameroon,471,Cameroon,Cameroon,cameroon,,,Africa
-CAN,Canada,124,CAN,Canada,CAN,Canada,UPC,United Province CA,20,Canada,Canada,canada,1,,North America
-CAN,Canada,124,CAN,Canada,CAN,Canada,CAN,Canada,20,Canada,Canada,canada,1,,North America
-CYM,Cayman Islands,136,CYM,Cayman Islands,,,,,,,,,,,North America
-CAF,Central African Republic,140,CAF,Central African Republic,CAF,Central African Republic,CEN,Central African Republic,482,Central African Republic,Central Africa Republic,central african republic,,,Africa
-CAF,Central African Republic,140,CAF,Central African Republic,CAF,Central African Republic,CEN,Central African Republic,482,Central African Republic,Central African Republic,central african republic,,,Africa
-TCD,Chad,148,TCD,Chad,TCD,Chad,CHA,Chad,483,Chad,Chad,chad,,,Africa
-CHL,Chile,152,CHL,Chile,CHL,Chile,CHL,Chile,155,Chile,Chile,chile,1,,South America
-CHN,China,156,CHN,China,CHN,China,CHN,China,710,China,China,china,,,Asia
-CXR,Christmas Island,162,CXR,Christmas Island,,,,,,,,,,,Asia
-CCK,Cocos Islands,166,CCK,Cocos (Keeling) Islands,,,,,,,,,,,Asia
-COL,Colombia,170,COL,Colombia,COL,Colombia,COL,Colombia,100,Colombia,Colombia,colombia,,,South America
-COL,Colombia,170,COL,Colombia,COL,Colombia,COL,Colombia,100,Colombia,Columbia,colombia,,,South America
-COM,Comoros,174,COM,Comoros,COM,Comoros,COM,Comoros,,,Comoros,comoros,,,Africa
-COG,Congo-Brazzaville,178,COG,Congo,COG,Congo,CON,Congo Brazzaville,484,Congo,Congo,congo-brazzaville,,,Africa
-COG,Congo-Brazzaville,178,COG,Congo,COG,Congo,CON,Congo Brazzaville,484,Congo,Congo (Brazzaville),congo-brazzaville,,,Africa
-COG,Congo-Brazzaville,178,COG,Congo,COG,Congo,CON,Congo Brazzaville,484,Congo,Republic of Congo (Brazzaville),congo-brazzaville,,,Africa
-COD,Congo-Kinshasa,180,COD,"Congo, Democratic Republic of the",COD,D.R. of the Congo,ZAI,Congo Kinshasa,490,Democratic Republic of the Congo,Dem. Rep. of the Congo,congo-kinshasa,,,Africa
-COD,Congo-Kinshasa,180,COD,"Congo, Democratic Republic of the",COD,D.R. of the Congo,ZAI,Congo Kinshasa,490,Democratic Republic of the Congo,Democratic Republic of Congo,congo-kinshasa,,,Africa
-COD,Congo-Kinshasa,180,COD,"Congo, Democratic Republic of the",COD,D.R. of the Congo,ZAI,Congo Kinshasa,490,Democratic Republic of the Congo,Democratic Republic of the Congo,congo-kinshasa,,,Africa
-COD,Congo-Kinshasa,180,COD,"Congo, Democratic Republic of the",COD,D.R. of the Congo,ZAI,Congo Kinshasa,490,Democratic Republic of the Congo,Democratic Republic of the Congo (Kinshasa),congo-kinshasa,,,Africa
-COK,Cook Islands,184,COK,Cook Islands,,,,,,,,,,,Asia
-CRI,Costa Rica,188,CRI,Costa Rica,CRI,Costa Rica,COS,Costa Rica,94,Costa Rica,Costa Rica,costa rica,,,North America
-CIV,Cote d'Ivoire,384,CIV,Côte d'Ivoire,CIV,Côte d'Ivoire,IVO,Cote D'Ivoire,437,Ivory Coast,Cote d'Ivoire,cote d'ivoire,,,Africa
-CIV,Cote d'Ivoire,384,CIV,Côte d'Ivoire,CIV,Côte d'Ivoire,IVO,Cote D'Ivoire,437,Ivory Coast,côte d'ivoire,cote d'ivoire,,,Africa
-HRV,Croatia,191,HRV,Croatia,HRV,Croatia,CRO,Croatia,344,Croatia,Croatia,croatia,,,Europe
-CUB,Cuba,192,CUB,Cuba,CUB,Cuba,CUB,Cuba,40,Cuba,,cuba,,,North America
-CUW,Curacao,531,CUW,Curaçao,,,,,,,,,,,North America
-CYP,Cyprus South,196,CYP,Cyprus,CYP,Cyprus,CYP,Cyprus,352,Cyprus,Cyprus,,,,Asia
-CYN,Cyprus North,,,,,,,,,,Northern Cyprus,cyprus,,,Asia
-CZE,Czechia,203,CZE,Czechia,CZE,Czech Republic,CZR,Czech Republic,316,Czech Republic,Czech Republic,czechia,1,1,Europe
-CSK,Czechoslovakia,200,CSK,Czechoslovakia,CSK,Czechoslovakia,CZE,Czechoslovakia,,,,czechoslovakia,1,1,Europe
-DNK,Denmark,208,DNK,Denmark,DNK,Denmark,DEN,Denmark,390,Denmark,Denmark,denmark,1,,Europe
-DJI,Djibouti,262,DJI,Djibouti,DJI,Djibouti,DJI,Djibouti,522,Djibouti,Djibouti,djibouti,,,Africa
-DMA,Dominica,212,DMA,Dominica,DMA,Dominica,,,,,,dominica,,,North America
-DOM,Dominican Republic,214,DOM,Dominican Republic,DOM,Dominican Republic,DOM,Dominican Republic,42,Dominican Republic,Dominican Republic,dominican republic,,,North America
-ECU,Ecuador,218,ECU,Ecuador,ECU,Ecuador,ECU,Ecuador,130,Ecuador,Ecuador,ecuador,,,South America
-EGY,Egypt,818,EGY,Egypt,EGY,Egypt,EGY,Egypt,651,Egypt,Egypt,egypt,,,Africa
-SLV,El Salvador,222,SLV,El Salvador,SLV,El Salvador,SAL,El Salvador,92,El Salvador,El Salvador,el salvador,,,North America
-GNQ,Equatorial Guinea,226,GNQ,Equatorial Guinea,GNQ,Equatorial Guinea,EQG,Equatorial Guinea,411,Equatorial Guinea,,equatorial guinea,,,Africa
-ERI,Eritrea,232,ERI,Eritrea,,,ERI,Eritrea,531,Eritrea,,eritrea,,,Africa
-EST,Estonia,233,EST,Estonia,EST,Estonia,EST,Estonia,366,Estonia,Estonia,estonia,1,,Europe
-SWZ,Eswatini,748,SWZ,Eswatini,SWZ,Swaziland,SWA,Swaziland,572,Swaziland,Swaziland,eswatini,,,Africa
-SWZ,Eswatini,748,SWZ,Eswatini,SWZ,Swaziland,SWA,Swaziland,572,Swaziland,Swaziland,swaziland,,,Africa
-ETH,Ethiopia,231,ETH,Ethiopia,ETH,Ethiopia,ETH,Ethiopia,530,Ethiopia,Ethiopia,ethiopia,,,Africa
-ETH,Ethiopia,231,ETH,Ethiopia,ETH,Ethiopia,ETI,Ethiopia,530,Ethiopia,Ethiopia,ethiopia,,,Africa
-FLK,Falkland Islands,238,FLK,Falkland Islands (Malvinas),,,,,,,,,,,South America
-FRO,Faroe Islands,234,FRO,Faroe Islands,,,,,,,,,,,Europe
-FJI,Fiji,242,FJI,Fiji,,,FJI,Fiji,,,,fiji,,,Asia
-FIN,Finland,246,FIN,Finland,FIN,Finland,FIN,Finland,375,Finland,Finland,finland,1,,Europe
-FRA,France,250,FRA,France,FRA,France,FRN,France,220,France,France,france,1,,Europe
-GUF,French Guiana,254,GUF,French Guiana,,,,,,,,,,,South America
-PYF,French Polynesia,258,PYF,French Polynesia,,,,,,,,,,,Asia
-ATF,French Southern Territories,260,ATF,French Southern Territories,,,,,,,,,,,Africa
-GAB,Gabon,266,GAB,Gabon,GAB,Gabon,GAB,Gabon,481,Gabon,Gabon,gabon,,,Africa
-GMB,Gambia,270,GMB,Gambia,GMB,Gambia,GAM,Gambia,420,Gambia,Gambia (The),gambia,,,Africa
-GEO,Georgia,268,GEO,Georgia,GEO,Georgia,GRG,Georgia,372,Georgia,Georgia,georgia,,,Asia
-DEU,Germany,276,DEU,Germany,DEU,Germany,GMY,Prussia-Germany,255,Germany,Germany,germany,1,,Europe
-GCF,German Confederation,,,,,,,,,,,,,,Europe
-DDR,Germany East,278,DDR,German Democratic Republic,,,GDR,Germany East,,,,,,,Europe
-BRD,Germany West,280,DEU,"Germany, Federal Republic of",,,GFR,Germany West,,,,,,,Europe
-GHA,Ghana,288,GHA,Ghana,GHA,Ghana,GHA,Ghana,452,Ghana,Ghana,ghana,,,Africa
-GCL,Gran Colombia,,,,,,GCL,Gran Colombia,,,,,,,North America
-GIB,Gibraltar,292,GIB,Gibraltar,,,,,,,,,,,Europe
-GRC,Greece,300,GRC,Greece,GRC,Greece,GRC,Greece,350,Greece,Greece,greece,1,,Europe
-GRL,Greenland,304,GRL,Greenland,,,,,,,,,,,North America
-GRD,Grenada,308,GRD,Grenada,,,,,,,,grenada,,,North America
-GLP,Guadeloupe,312,GLP,Guadeloupe,,,,,,,,,,,North America
-GUM,Guam,316,GUM,Guam,,,,,,,,,,,Asia
-GTM,Guatemala,320,GTM,Guatemala,GTM,Guatemala,GUA,Guatemala,90,Guatemala,Guatemala,guatemala,,,North America
-GGY,Guernsey,831,GGY,Guernsey,,,,,,,,,,,Europe
-GIN,Guinea,324,GIN,Guinea,GIN,Guinea,GUI,Guinea,438,Guinea,Guinea,guinea,,,Africa
-GNB,Guinea-Bissau,624,GNB,Guinea-Bissau,GNB,Guinea-Bissau,GNB,Guinea-Bissau,404,Guinea-Bissau,,guinea-bissau,,,Africa
-GUY,Guyana,328,GUY,Guyana,,,GUY,Guyana,110,Guyana,Guyana,guyana,,,South America
-HTI,Haiti,332,HTI,Haiti,HTI,Haiti,HAI,Haiti,41,Haiti,Haiti,haiti,,,North America
-HMD,Heard Island and McDonald Islands,334,HMD,Heard Island and McDonald Islands,,,,,,,,,,,Asia
-VAT,Holy See,336,VAT,Holy See,,,,,,,,,,,Europe
-HND,Honduras,340,HND,Honduras,HND,Honduras,HON,Honduras,91,Honduras,Honduras,honduras,,,North America
-HKG,Hong Kong,344,HKG,Hong Kong,HKG,"China, Hong Kong SAR",,,,,Hong Kong,hong kong,,,Asia
-HUN,Hungary,348,HUN,Hungary,HUN,Hungary,HUN,Hungary,310,Hungary,Hungary,hungary,1,1,Europe
-ISL,Iceland,352,ISL,Iceland,ISL,Iceland,,,395,Iceland,Iceland,iceland,1,,Europe
-IND,India,356,IND,India,IND,India,IND,India,750,India,India,india,,,Asia
-IDN,Indonesia,360,IDN,Indonesia,IDN,Indonesia,INS,Indonesia,850,Indonesia,Indonesia,indonesia,,,Asia
-IRN,Iran,364,IRN,Iran (Islamic Republic of),IRN,Iran (Islamic Republic of),IRN,Iran,630,Iran,Iran,iran,,,Asia
-IRN,Iran,364,IRN,Iran (Islamic Republic of),IRN,Iran (Islamic Republic of),IRN,Iran,630,Iran,Iran (Islamic Republic of),iran,,,Asia
-IRQ,Iraq,368,IRQ,Iraq,IRQ,Iraq,IRQ,Iraq,645,Iraq,Iraq,iraq,,,Asia
-IRL,Ireland,372,IRL,Ireland,IRL,Ireland,IRE,Ireland,205,Ireland,Ireland,ireland,1,,Europe
-IMN,Isle of Man,833,IMN,Isle of Man,,,,,,,,,,,Europe
-ISR,Israel,376,ISR,Israel,ISR,Israel,ISR,Israel,666,Israel,Israel,israel,1,,Asia
-ITA,Italy,380,ITA,Italy,ITA,Italy,ITA,Italy,325,Italy,Italy,italy,1,,Europe
-JAM,Jamaica,388,JAM,Jamaica,JAM,Jamaica,JAM,Jamaica,,,Jamaica,jamaica,,,North America
-JPN,Japan,392,JPN,Japan,JPN,Japan,JPN,Japan,740,Japan,Japan,japan,1,,Asia
-JEY,Jersey,832,JEY,Jersey,,,,,,,,,,,Europe
-JOR,Jordan,400,JOR,Jordan,JOR,Jordan,JOR,Jordan,663,Jordan,Jordan,jordan,,,Asia
-KAZ,Kazakhstan,398,KAZ,Kazakhstan,KAZ,Kazakhstan,KZK,Kazakhstan,705,Kazakhstan,Kazakhstan,kazakhstan,,,Asia
-KEN,Kenya,404,KEN,Kenya,KEN,Kenya,KEN,Kenya,501,Kenya,Kenya,kenya,,,Africa
-KIR,Kiribati,296,KIR,Kiribati,,,,,,,,kiribati,,,Asia
-KRE,Korea,,,,,,KOR,Korea,,,,,,,Asia
-KOR,Korea South,410,KOR,"Korea, Republic of",KOR,Republic of Korea,ROK,Korea South,732,South Korea,Republic of Korea,korea south,,,Asia
-PRK,Korea North,408,PRK,Korea (Democratic People's Republic of),PRK,D.P.R. of Korea,PRK,Korea North,731,North Korea,,korea north,,,Asia
-RKS,Kosovo,999,RKS,"Kosovo, Republic of",,,KOS,Kosovo,,,Kosovo,kosovo,,,Europe
-KWT,Kuwait,414,KWT,Kuwait,KWT,Kuwait,KUW,Kuwait,,,Kuwait,kuwait,,,Asia
-KGZ,Kyrgyzstan,417,KGZ,Kyrgyzstan,KGZ,Kyrgyzstan,KYR,Kyrgyzstan,703,Kyrgyzstan,Kyrgyzstan,kyrgyzstan,,,Asia
-LAO,Laos,418,LAO,Lao People's Democratic Republic,LAO,Lao People's DR,LAO,Laos,812,Laos,Lao People's Democratic Republic,laos,,,Asia
-LVA,Latvia,428,LVA,Latvia,LVA,Latvia,LAT,Latvia,367,Latvia,Latvia,latvia,1,,Europe
-LBN,Lebanon,422,LBN,Lebanon,LBN,Lebanon,LEB,Lebanon,660,Lebanon,Lebanon,lebanon,,,Asia
-LSO,Lesotho,426,LSO,Lesotho,LSO,Lesotho,LES,Lesotho,570,Lesotho,Lesotho,lesotho,,,Africa
-LBR,Liberia,430,LBR,Liberia,LBR,Liberia,LBR,Liberia,450,Liberia,Liberia,liberia,,,Africa
-LBY,Libya,434,LBY,Libya,LBY,Libya,LIB,Libya,,,Libya,libya,,,Africa
-LBY,Libya,434,LBY,Libya,LBY,Libya,LIB,Libya,,,State of Libya,libya,,,Africa
-LIE,Liechtenstein,438,LIE,Liechtenstein,,,,,,,,,,,Europe
-LTU,Lithuania,440,LTU,Lithuania,LTU,Lithuania,LIT,Lithuania,368,Lithuania,Lithuania,lithuania,,,Europe
-LUX,Luxembourg,442,LUX,Luxembourg,LUX,Luxembourg,LUX,Luxembourg,,,Luxembourg,luxembourg,1,,Europe
-MAC,Macao,446,MAC,Macao,,,,,,,,macao,,,Asia
-MDG,Madagascar,450,MDG,Madagascar,MDG,Madagascar,MAG,Madagascar,580,Madagascar,Madagascar,madagascar,,,Africa
-MWI,Malawi,454,MWI,Malawi,MWI,Malawi,MAW,Malawi,553,Malawi,Malawi,malawi,,,Africa
-MYS,Malaysia,458,MYS,Malaysia,MYS,Malaysia,MAL,Malaysia,820,Malaysia,Malaysia,malaysia,,,Asia
-MDV,Maldives,462,MDV,Maldives,,,,,,,,maldives,,,Asia
-MLI,Mali,466,MLI,Mali,MLI,Mali,MLI,Mali,432,Mali,Mali,mali,,,Africa
-MLT,Malta,470,MLT,Malta,MLT,Malta,,,,,Malta,malta,,,Europe
-MHL,Marshall Islands,584,MHL,Marshall Islands,,,,,,,,,,,Asia
-MTQ,Martinique,474,MTQ,Martinique,,,,,,,,,,,North America
-MRT,Mauritania,478,MRT,Mauritania,MRT,Mauritania,MAA,Mauritania,435,Mauritania,Mauritania,mauritania,,,Africa
-MUS,Mauritius,480,MUS,Mauritius,MUS,Mauritius,MAS,Mauritius,,,Mauritius,mauritius,,,Africa
-MYT,Mayotte,175,MYT,Mayotte,,,,,,,,,,,Africa
-MEX,Mexico,484,MEX,Mexico,MEX,Mexico,MEX,Mexico,70,Mexico,Mexico,mexico,1,,North America
-MOD,Modena,,,,,,MOD,Modena,,,,,,,Europe
-FSM,Micronesia,583,FSM,Micronesia (Federated States of),,,,,,,,,,,Asia
-MDA,Moldova,498,MDA,"Moldova, Republic of",MDA,Republic of Moldova,MLD,Moldova,359,Moldova,Moldova (Republic of),moldova,,1,Europe
-MDA,Moldova,498,MDA,"Moldova, Republic of",MDA,Republic of Moldova,MLD,Moldova,359,Moldova,Republic of Moldova,moldova,,1,Europe
-MCO,Monaco,492,MCO,Monaco,,,,,,,,,,,Europe
-MNG,Mongolia,496,MNG,Mongolia,MNG,Mongolia,MON,Mongolia,712,Mongolia,Mongolia,mongolia,,,Asia
-MNE,Montenegro,499,MNE,Montenegro,MNE,Montenegro,MNT,Montenegro,,,Montenegro,montenegro,,,Europe
-MSR,Montserrat,500,MSR,Montserrat,,,,,,,,,,,North America
-MAR,Morocco,504,MAR,Morocco,MAR,Morocco,MOR,Morocco,600,Morocco,Morocco,morocco,,,Africa
-MOZ,Mozambique,508,MOZ,Mozambique,MOZ,Mozambique,MZM,Mozambique,541,Mozambique,Mozambique,mozambique,,,Africa
-MMR,Myanmar,104,MMR,Myanmar,MMR,Myanmar,MYA,Myanmar (Burma),775,Myanmar,Myanmar,myanmar,,,Asia
-NAG,Nagorno-Karabakh,,,,,,,,,,Nagorno-Karabakh Region,,,,Asia
-NAM,Namibia,516,NAM,Namibia,NAM,Namibia,NAM,Namibia,565,Namibia,Namibia,namibia,,,Africa
-NRU,Nauru,520,NRU,Nauru,,,,,,,,,,,Asia
-NPL,Nepal,524,NPL,Nepal,NPL,Nepal,NEP,Nepal,790,Nepal,Nepal,nepal,,,Asia
-NLD,Netherlands,528,NLD,Netherlands,NLD,Netherlands,NTH,Netherlands,210,Netherlands,Netherlands,netherlands,1,,Europe
-NCL,New Caledonia,540,NCL,New Caledonia,,,,,,,,,,,Asia
-NZL,New Zealand,554,NZL,New Zealand,NZL,New Zealand,NEW,New Zealand,920,New Zealand,New Zealand,new zealand,1,,Asia
-NIC,Nicaragua,558,NIC,Nicaragua,NIC,Nicaragua,NIC,Nicaragua,93,Nicaragua,Nicaragua,nicaragua,,,North America
-NER,Niger,562,NER,Niger,NER,Niger,NIR,Niger,436,Niger,Niger,niger,,,Africa
-NGA,Nigeria,566,NGA,Nigeria,NGA,Nigeria,NIG,Nigeria,475,Nigeria,Nigeria,nigeria,,,Africa
-NIU,Niue,570,NIU,Niue,,,,,,,,,,,Asia
-NFK,Norfolk Island,574,NFK,Norfolk Island,,,,,,,,,,,Asia
-MKD,North Macedonia,807,MKD,North Macedonia,MKD,TFYR of Macedonia,MAC,Macedonia,343,Macedonia,Macedonia (FYRO),fyr of macedonia,,,Europe
-MKD,North Macedonia,807,MKD,North Macedonia,MKD,TFYR of Macedonia,MAC,Macedonia,343,Macedonia,Macedonia (Republic of North),macedonia,,,Europe
-MKD,North Macedonia,807,MKD,North Macedonia,MKD,TFYR of Macedonia,MAC,Macedonia,343,Macedonia,The Former Yugoslav Republic of Macedonia,north macedonia,,,Europe
-MNP,Northern Mariana Islands,580,MNP,Northern Mariana Islands,,,,,,,,,,,Asia
-NOR,Norway,578,NOR,Norway,NOR,Norway,NOR,Norway,385,Norway,Norway,norway,1,,Europe
-OMN,Oman,512,OMN,Oman,OMN,Oman,OMA,Oman,,,Oman,oman,,,Asia
-OFS,Orange Free State,,,,,,OFS,Orange Free State,,,,,,,Africa
-PAK,Pakistan,586,PAK,Pakistan,PAK,Pakistan,PAK,Pakistan,770,Pakistan,Pakistan,pakistan,,,Asia
-PAK,Pakistan,586,PAK,Pakistan,PAK,Pakistan,PKS,Pakistan,770,Pakistan,Pakistan,pakistan,,,Asia
-PLW,Palau,585,PLW,Palau,,,,,,,,,,,Asia
-PSE,Palestine,275,PSE,"Palestine, State of",PSE,State of Palestine,,,,,Palestine (State of),palestine,,,Asia
-PSE,Palestine,275,PSE,"Palestine, State of",PSE,State of Palestine,,,,,Palestinian Territories,palestine,,,Asia
-PSE,Palestine,275,PSE,"Palestine, State of",PSE,State of Palestine,,,,,Palestinian Territory,palestine,,,Asia
-PSE,Palestine,275,PSE,"Palestine, State of",PSE,State of Palestine,,,,,State of Palestine,palestine,,,Asia
-PAN,Panama,591,PAN,Panama,PAN,Panama,PAN,Panama,95,Panama,Panama,panama,,,North America
-PAP,Papal States,,,,,,PAP,Papal States,,,,,,,Europe
-PNG,Papua New Guinea,598,PNG,Papua New Guinea,,,PNG,Papua New Guinea,910,Papua New Guinea,,papua new guinea,,,Asia
-PRY,Paraguay,600,PRY,Paraguay,PRY,Paraguay,PAR,Paraguay,150,Paraguay,Paraguay,paraguay,,,South America
-PMA,Parma,,,,,,PMA,Parma,,,,,,,Europe
-PER,Peru,604,PER,Peru,PER,Peru,PER,Peru,135,Peru,Peru,peru,,,South America
-PHL,Philippines,608,PHL,Philippines,PHL,Philippines,PHI,Philippines,840,Philippines,Philippines,philippines,,,Asia
-PCN,Pitcairn,612,PCN,Pitcairn,,,,,,,,,,,Asia
-POL,Poland,616,POL,Poland,POL,Poland,POL,Poland,290,Poland,Poland,poland,1,1,Europe
-PRT,Portugal,620,PRT,Portugal,PRT,Portugal,POR,Portugal,235,Portugal,Portugal,portugal,1,,Europe
-PRI,Puerto Rico,630,PRI,Puerto Rico,PRI,Puerto Rico,,,,,Puerto Rico,puerto rico,,,South America
-QAT,Qatar,634,QAT,Qatar,QAT,Qatar,QAT,Qatar,694,Qatar,Qatar,qatar,,,Asia
-REU,Reunion,638,REU,Réunion,,,,,,,,,,,Africa
-ROU,Romania,642,ROU,Romania,ROU,Romania,RUM,Romania,360,Romania,Romania,romania,,1,Europe
-RUS,Russia,643,RUS,Russian Federation,RUS,Russian Federation,RUS,Russia,365,Russia,Russia,russia,,1,Europe
-RUS,Russia,643,RUS,Russian Federation,RUS,Russian Federation,RUS,Russia,365,Russia,Russian Federation,russia,,1,Europe
-RWA,Rwanda,646,RWA,Rwanda,RWA,Rwanda,RWA,Rwanda,517,Rwanda,Rwanda,rwanda,,,Africa
-SAR,Sardinia,,,,,,SAR,Sardinia,,,,,,,Europe
-SAX,Saxony,,,,,,SAX,Saxony,,,,,,,Europe
-BLM,Saint Barthelemy,652,BLM,Saint Barthélemy,,,,,,,,,,,Africa
-SHN,"Saint Helena, Ascension and Tristan da Cunha",654,SHN,"Saint Helena, Ascension and Tristan da Cunha",,,,,,,,,,,Africa
-KNA,Saint Kitts and Nevis,659,KNA,Saint Kitts and Nevis,,,,,,,,,,,North America
-LCA,Saint Lucia,662,LCA,Saint Lucia,LCA,Saint Lucia,,,,,,saint lucia,,,North America
-MAF,French Saint Martin,663,MAF,Saint Martin (French part),,,,,,,,,,,North America
-SPM,Saint Pierre and Miquelon,666,SPM,Saint Pierre and Miquelon,,,,,,,,,,,North America
-VCT,Saint Vincent and the Grenadines,670,VCT,Saint Vincent and the Grenadines,,,,,,,,saint vincent and grenadines,,,North America
-WSM,Samoa,882,WSM,Samoa,,,,,,,,samoa,,,Asia
-SMR,San Marino,674,SMR,San Marino,,,,,,,,,,,Europe
-STP,Sao Tome and Principe,678,STP,Sao Tome and Principe,STP,Sao Tome and Principe,,,,,,sao tome and principe,,,Africa
-SAU,Saudi Arabia,682,SAU,Saudi Arabia,SAU,Saudi Arabia,SAU,Saudi Arabia,,,Saudi Arabia,saudi arabia,,,Asia
-SEN,Senegal,686,SEN,Senegal,SEN,Senegal,SEN,Senegal,433,Senegal,Senegal,senegal,,,Africa
-FRY,Serbia and Montenegro,891,SCG,Serbia and Montenegro,,,,,,,,serbia and montenegro,,,Europe
-SRB,Serbia,688,SRB,Serbia,SRB,Serbia,SER,Serbia,,,Serbia,serbia,,,Europe
-SYC,Seychelles,690,SYC,Seychelles,SYC,Seychelles,,,,,,seychelles,,,Africa
-SLE,Sierra Leone,694,SLE,Sierra Leone,SLE,Sierra Leone,SIE,Sierra Leone,451,Sierra Leone,Sierra Leone,sierra leone,,,Africa
-SGP,Singapore,702,SGP,Singapore,SGP,Singapore,SIN,Singapore,,,Singapore,singapore,,,Asia
-SXM,Dutch Sint Maarten,534,SXM,Sint Maarten (Dutch part),,,,,,,,,,,North America
-SVK,Slovakia,703,SVK,Slovakia,SVK,Slovakia,SLO,Slovak Republic,317,Slovakia,Slovakia,slovakia,,,Europe
-SVN,Slovenia,705,SVN,Slovenia,SVN,Slovenia,SLV,Slovenia,349,Slovenia,Slovenia,slovenia,1,,Europe
-SLB,Solomon Islands,90,SLB,Solomon Islands,,,SOL,Solomon Islands,,,,solomon islands,,,Asia
-SOM,Somalia,706,SOM,Somalia,,,SOM,Somalia,520,Somalia,Somalia,somalia,,,Africa
-SML,Somaliland,,,,,,,,,,Somaliland,,,,Africa
-SML,Somaliland,,,,,,,,,,Somaliland (Region),,,,Africa
-ZAF,South Africa,710,ZAF,South Africa,ZAF,South Africa,SAF,South Africa,560,South Africa,South Africa,south africa,,,Africa
-SGS,South Georgia and the South Sandwich Islands,239,SGS,South Georgia and the South Sandwich Islands,,,,,,,,,,,South America
-ESP,Spain,724,ESP,Spain,ESP,Spain,SPN,Spain,230,Spain,Spain,spain,1,,Europe
-LKA,Sri Lanka,144,LKA,Sri Lanka,LKA,Sri Lanka,SRI,Sri Lanka,780,Sri Lanka,Sri Lanka,sri lanka,,,Asia
-LKA,Sri Lanka,144,LKA,Sri Lanka,LKA,Sri Lanka,SRI,Sri Lanka,780,Sri Lanka,Sri Lanka,sri lanka,,,Asia
-SDN,Sudan,729,SUD,Sudan,SDN,Sudan (Former),SUD,Sudan,625,Sudan,Sudan,sudan,,,Africa
-NSD,Sudan North,729,,,,,SDN,Sudan-North,,,,sudan north,,,Africa
-SSD,Sudan South,728,SSD,South Sudan,,,SSU,South Sudan,,,South Sudan,south sudan,,,Africa
-SUR,Suriname,740,SUR,Suriname,,,SUR,Suriname,115,Suriname,Suriname,suriname,,,Europe
-SJM,Svalbard and Jan Mayen,744,SJM,Svalbard and Jan Mayen,,,,,,,,,,,Europe
-SWE,Sweden,752,SWE,Sweden,SWE,Sweden,SWD,Sweden,380,Sweden,Sweden,sweden,1,,Europe
-CHE,Switzerland,756,CHE,Switzerland,CHE,Switzerland,SWZ,Switzerland,225,Switzerland,Switzerland,switzerland,1,,Europe
-SYR,Syria,760,SYR,Syrian Arab Republic,SYR,Syrian Arab Republic,SYR,Syria,652,Syria,Syria,syria,,,Asia
-TWN,Taiwan,158,TWN,"Taiwan, Province of China",TWN,"Taiwan, Province of China",TAW,Taiwan,713,Taiwan,Taiwan,taiwan,,,Asia
-TWN,Taiwan,158,TWN,"Taiwan, Province of China",TWN,"Taiwan, Province of China",TAW,Taiwan,713,Taiwan,Taiwan Province of China,taiwan,,,Asia
-TWN,Taiwan,158,TWN,"Taiwan, Province of China",TWN,"Taiwan, Province of China",TAW,Taiwan,713,Taiwan,"Taiwan, Province of China",taiwan,,,Asia
-TJK,Tajikistan,762,TJK,Tajikistan,TJK,Tajikistan,TAJ,Tajikistan,702,Tajikistan,Tajikistan,tajikistan,,,Asia
-TZA,Tanzania,834,TZA,"Tanzania, United Republic of",TZA,U.R. of Tanzania: Mainland,TAZ,Tanzania,510,Tanzania,Tanzania,tanzania,,,Africa
-TZA,Tanzania,834,TZA,"Tanzania, United Republic of",TZA,U.R. of Tanzania: Mainland,TAZ,Tanzania,510,Tanzania,Tanzania (United Rep. of),tanzania,,,Africa
-TZA,Tanzania,834,TZA,"Tanzania, United Republic of",TZA,U.R. of Tanzania: Mainland,TAZ,Tanzania,510,Tanzania,United Republic of Tanzania,tanzania,,,Africa
-THA,Thailand,764,THA,Thailand,THA,Thailand,THI,Thailand,800,Thailand,Thailand,thailand,,,Asia
-TLS,Timor-Leste,626,TLS,Timor-Leste,,,ETM,Timor Leste,,,,timor-leste,,,Asia
-TGO,Togo,768,TGO,Togo,TGO,Togo,TOG,Togo,461,Togo,Togo,togo,,,Africa
-TKL,Tokelau,772,TKL,Tokelau,,,,,,,,,,,Asia
-TON,Tonga,776,TON,Tonga,,,,,,,,tonga,,,Asia
-TTO,Trinidad and Tobago,780,TTO,Trinidad and Tobago,TTO,Trinidad and Tobago,TRI,Trinidad and Tobago,,,Trinidad and Tobago,trinidad and tobago,,,North America
-TUN,Tunisia,788,TUN,Tunisia,TUN,Tunisia,TUN,Tunisia,616,Tunisia,Tunisia,tunisia,,,Africa
-TUR,Turkey,792,TUR,Turkey,TUR,Turkey,TUR,Turkey,640,Turkey,Turkey,turkey,1,,Asia
-TKM,Turkmenistan,795,TKM,Turkmenistan,TKM,Turkmenistan,TKM,Turkmenistan,701,Turkmenistan,Turkmenistan,turkmenistan,,,Asia
-TCA,Turks and Caicos Islands,796,TCA,Turks and Caicos Islands,,,,,,,,,,,North America
-TUS,Tuscany,,,,,,TUS,Tuscany,,,,,,,Europe
-SIC,Two Sicilies,,,,,,SIC,Two Sicilies,,,,,,,Europe
-TUV,Tuvalu,798,TUV,Tuvalu,,,,,,,,,,,Asia
-UGA,Uganda,800,UGA,Uganda,UGA,Uganda,UGA,Uganda,500,Uganda,Uganda,uganda,,,Africa
-UKR,Ukraine,804,UKR,Ukraine,UKR,Ukraine,UKR,Ukraine,369,Ukraine,Ukraine,ukraine,,,Europe
-ARE,United Arab Emirates,784,ARE,United Arab Emirates,ARE,United Arab Emirates,UAE,UAE,,,United Arab Emirates,united arab emirates,,,Asia
-GBR,United Kingdom,826,GBR,United Kingdom of Great Britain and Northern Ireland,GBR,United Kingdom,UKG,United Kingdom,200,United Kingdom,United Kingdom,united kingdom,1,,Europe
-UMI,United States Minor Outlying Islands,581,UMI,United States Minor Outlying Islands,,,,,,,,,,,Asia
-USA,United States,840,USA,United States of America,USA,United States,USA,United States,2,United States of America,United States of America,united states,1,,North America
-USA,United States,840,USA,United States of America,USA,United States,USA,United States,2,United States of America,USA,united states of america,1,,North America
-URY,Uruguay,858,URY,Uruguay,URY,Uruguay,URU,Uruguay,165,Uruguay,Uruguay,uruguay,,,South America
-SUN,Soviet Union,810,SUN,Soviet Union,SUN,Former USSR,USR,USSR,,,,soviet union,,1,Europe
-UZB,Uzbekistan,860,UZB,Uzbekistan,UZB,Uzbekistan,UZB,Uzbekistan,704,Uzbekistan,Uzbekistan,uzbekistan,,,Asia
-VUT,Vanuatu,548,VUT,Vanuatu,,,,,,,,vanuatu,,,Asia
-VEN,Venezuela,862,VEN,Venezuela (Bolivarian Republic of),VEN,Venezuela (Bolivarian Republic of),VEN,Venezuela,101,Venezuela,Venezuela,venezuela,,,South America
-VEN,Venezuela,862,VEN,Venezuela (Bolivarian Republic of),VEN,Venezuela (Bolivarian Republic of),VEN,Venezuela,101,Venezuela,Venezuela (Bolivarian Republic of),venezuela,,,South America
-VNM,Vietnam,704,VNM,Viet Nam,VNM,Viet Nam,VIE,Vietnam,816,Vietnam,Vietnam,vietnam,,,Asia
-DRV,Vietnam North,,,,,,DRV,Vietnam North,,,,,,,Asia
-RVN,Vietnam South,,,,,,RVN,Vietnam South,,,,,,,Asia
-VGB,United Kingdom Virgin Islands,92,VGB,Virgin Islands (British),,,,,,,,,,,North America
-VIR,United States Virgin Islands,850,VIR,Virgin Islands (U.S.),,,,,,,,,,,North America
-WLF,Wallis and Futuna,876,WLF,Wallis and Futuna,,,,,,,,,,,Asia
-ESH,Western Sahara,732,ESH,Western Sahara,,,,,,,,,,,Africa
-WRT,Wuerttemburg,,,,,,WRT,Wuerttemburg,,,,,,,Europe
-YEM,Yemen,887,YEM,Yemen,YEM,Yemen,YEM,Yemen,679,Yemen,Yemen,yemen,,,Asia
-NYM,Yemen North,,,,,,YAR,Yemen North,,,,,,,Asia
-SYM,Yemen South,,,,,,YPR,Yemen South,,,,,,,Asia
-YUG,Yugoslavia,890,YUG,Yugoslavia,YUG,Former Yugoslavia,YGS,Yugoslavia,345,Yugoslavia,,yugoslavia,,1,Europe
-YUG,Yugoslavia,890,YUG,"Yugoslavia, Socialist Federal Republic of",YUG,Former Yugoslavia,YUG,Yugoslavia,345,Yugoslavia,,yugoslavia,,1,Europe
-ZMB,Zambia,894,ZMB,Zambia,ZMB,Zambia,ZAM,Zambia,551,Zambia,Zambia,zambia,,,Africa
-ZWE,Zimbabwe,716,ZWE,Zimbabwe,ZWE,Zimbabwe,ZIM,Zimbabwe,552,Zimbabwe,Zimbabwe,zimbabwe,,,Africa
+"master_short","master_long","iso_3166_1_numeric","iso_3166_1_alpha_3","iso_3166_1","maddison_code","maddison_long","polity_scode","polity_country","empirenation_code","empirenation_country","wgi_country","cpi_country","oecd","euro_communist","continent"
+"AFG","Afghanistan",4,"AFG","Afghanistan","AFG","Afghanistan","AFG","Afghanistan",700,"Afghanistan","Afghanistan","afghanistan",,,"Asia"
+"ALA","Aland Islands",248,"ALA","Åland Islands",,,,,,,,,,,"Europe"
+"ALB","Albania",8,"ALB","Albania","ALB","Albania","ALB","Albania",339,"Albania","Albania","albania",,1,"Europe"
+"DZA","Algeria",12,"DZA","Algeria","DZA","Algeria","ALG","Algeria",615,"Algeria","Algeria","algeria",,,"Africa"
+"ASM","American Samoa",16,"ASM","American Samoa",,,,,,,,,,,"Asia"
+"AND","Andorra",20,"AND","Andorra",,,,,,,,,,,"Europe"
+"AGO","Angola",24,"AGO","Angola","AGO","Angola","ANG","Angola",540,"Angola","Angola","angola",,,"Africa"
+"AIA","Anguilla",660,"AIA","Anguilla",,,,,,,,,,,"North America"
+"ATA","Antarctica",10,"ATA","Antarctica",,,,,,,,,,,"Antarctica"
+"ATG","Antigua and Barbuda",28,"ATG","Antigua and Barbuda",,,,,,,,,,,"North America"
+"ARG","Argentina",32,"ARG","Argentina","ARG","Argentina","ARG","Argentina",160,"Argentina","Argentina","argentina",,,"South America"
+"ARM","Armenia",51,"ARM","Armenia","ARM","Armenia","ARM","Armenia",371,"Armenia","Armenia","armenia",,,"Asia"
+"ABW","Aruba",533,"ABW","Aruba",,,,,,,,,,,"North America"
+"AUS","Australia",36,"AUS","Australia","AUS","Australia","AUL","Australia",900,"Australia","Australia","australia",1,,"Asia"
+"AUT","Austria",40,"AUT","Austria","AUT","Austria","AUS","Austria",305,"Austria","Austria","austria",1,,"Europe"
+"AZE","Azerbaijan",31,"AZE","Azerbaijan","AZE","Azerbaijan","AZE","Azerbaijan",373,"Azerbaijan","Azerbaijan","azerbaijan",,,"Asia"
+"BHS","Bahamas",44,"BHS","Bahamas",,,,,,,,"bahamas",,,"North America"
+"BAD","Baden",,,,,,"BAD","Baden",,,,,,,"Europe"
+"BHR","Bahrain",48,"BHR","Bahrain","BHR","Bahrain","BAH","Bahrain",,,"Bahrain","bahrain",,,"Asia"
+"BGD","Bangladesh",50,"BGD","Bangladesh","BGD","Bangladesh","BNG","Bangladesh",771,"Bangladesh","Bangladesh","bangladesh",,,"Asia"
+"BAV","Bavaria",,,,,,"BAV","Bavaria",,,,,,,"Europe"
+"BRB","Barbados",52,"BRB","Barbados","BRB","Barbados",,,,,,"barbados",,,"North America"
+"BLR","Belarus",112,"BLR","Belarus","BLR","Belarus","BLR","Belarus",370,"Belarus","Belarus","belarus",,,"Europe"
+"BEL","Belgium",56,"BEL","Belgium","BEL","Belgium","BEL","Belgium",211,"Belgium","Belgium","belgium",1,,"Europe"
+"BLZ","Belize",84,"BLZ","Belize",,,,,80,"Belize","Belize","belize",,,"North America"
+"BEN","Benin",204,"BEN","Benin","BEN","Benin","BEN","Benin",434,"Benin","Benin","benin",,,"North America"
+"BMU","Bermuda",60,"BMU","Bermuda",,,,,,,,,,,"North America"
+"BTN","Bhutan",64,"BTN","Bhutan",,,"BHU","Bhutan",760,"Bhutan","Bhutan","bhutan",,,"Asia"
+"BOL","Bolivia",68,"BOL","Bolivia (Plurinational State of)","BOL","Bolivia (Plurinational State of)","BOL","Bolivia",145,"Bolivia","Bolivia","bolivia",,,"South America"
+"BOL","Bolivia",68,"BOL","Bolivia (Plurinational State of)","BOL","Bolivia (Plurinational State of)","BOL","Bolivia",145,"Bolivia","Bolivia (Plurinational State of)","bolivia",,,"South America"
+"BES","Bonaire, Sint Eustatius and Saba",535,"BES","Bonaire, Sint Eustatius and Saba",,,,,,,,,,,"North America"
+"BIH","Bosnia and Herzegovina",70,"BIH","Bosnia and Herzegovina","BIH","Bosnia and Herzegovina","BOS","Bosnia",346,"Bosnia and Herzegovina","Bosnia & Herzegovina","bosnia and herzegovina",,,"Europe"
+"BIH","Bosnia and Herzegovina",70,"BIH","Bosnia and Herzegovina","BIH","Bosnia and Herzegovina","BOS","Bosnia",346,"Bosnia and Herzegovina","Bosnia and Herzegovina","bosnia and herzegovina",,,"Europe"
+"BWA","Botswana",72,"BWA","Botswana","BWA","Botswana","BOT","Botswana",571,"Botswana","Botswana","botswana",,,"Africa"
+"BVT","Bouvet Island",74,"BVT","Bouvet Island",,,,,,,,,,,"North America"
+"BRA","Brazil",76,"BRA","Brazil","BRA","Brazil","BRA","Brazil",140,"Brazil","Brazil","brazil",,,"South America"
+"IOT","United Kingdom Indian Ocean Territory",86,"IOT","British Indian Ocean Territory",,,,,,,,,,,"Asia"
+"BRN","Brunei",96,"BRN","Brunei Darussalam",,,,,,,,"brunei",,,"Asia"
+"BRN","Brunei",96,"BRN","Brunei Darussalam",,,,,,,,"brunei darussalam",,,"Asia"
+"BGR","Bulgaria",100,"BGR","Bulgaria","BGR","Bulgaria","BUL","Bulgaria",355,"Bulgaria","Bulgaria","bulgaria",,1,"Europe"
+"BFA","Burkina Faso",854,"BFA","Burkina Faso","BFA","Burkina Faso","BFO","Burkina Faso",439,"Burkina Faso","Burkina Faso","burkina faso",,,"Africa"
+"BDI","Burundi",108,"BDI","Burundi","BDI","Burundi","BUI","Burundi",516,"Burundi","Burundi","burundi",,,"Africa"
+"CPV","Cabo Verde",132,"CPV","Cabo Verde","CPV","Cabo Verde","CAP","Cape Verde",,,,"cabo verde",,,"Africa"
+"CPV","Cabo Verde",132,"CPV","Cabo Verde","CPV","Cabo Verde","CAP","Cape Verde",,,,"cape verde",,,"Africa"
+"KHM","Cambodia",116,"KHM","Cambodia","KHM","Cambodia","CAM","Cambodia",811,"Cambodia","Cambodia","cambodia",,,"Asia"
+"CMR","Cameroon",120,"CMR","Cameroon","CMR","Cameroon","CAO","Cameroon",471,"Cameroon","Cameroon","cameroon",,,"Africa"
+"CAN","Canada",124,"CAN","Canada","CAN","Canada","UPC","United Province CA",20,"Canada","Canada","canada",1,,"North America"
+"CAN","Canada",124,"CAN","Canada","CAN","Canada","CAN","Canada",20,"Canada","Canada","canada",1,,"North America"
+"CYM","Cayman Islands",136,"CYM","Cayman Islands",,,,,,,,,,,"North America"
+"CAF","Central African Republic",140,"CAF","Central African Republic","CAF","Central African Republic","CEN","Central African Republic",482,"Central African Republic","Central Africa Republic","central african republic",,,"Africa"
+"CAF","Central African Republic",140,"CAF","Central African Republic","CAF","Central African Republic","CEN","Central African Republic",482,"Central African Republic","Central African Republic","central african republic",,,"Africa"
+"TCD","Chad",148,"TCD","Chad","TCD","Chad","CHA","Chad",483,"Chad","Chad","chad",,,"Africa"
+"CHL","Chile",152,"CHL","Chile","CHL","Chile","CHL","Chile",155,"Chile","Chile","chile",1,,"South America"
+"CHN","China",156,"CHN","China","CHN","China","CHN","China",710,"China","China","china",,,"Asia"
+"CXR","Christmas Island",162,"CXR","Christmas Island",,,,,,,,,,,"Asia"
+"CCK","Cocos Islands",166,"CCK","Cocos (Keeling) Islands",,,,,,,,,,,"Asia"
+"COL","Colombia",170,"COL","Colombia","COL","Colombia","COL","Colombia",100,"Colombia","Colombia","colombia",,,"South America"
+"COL","Colombia",170,"COL","Colombia","COL","Colombia","COL","Colombia",100,"Colombia","Columbia","colombia",,,"South America"
+"COM","Comoros",174,"COM","Comoros","COM","Comoros","COM","Comoros",,,"Comoros","comoros",,,"Africa"
+"COG","Congo-Brazzaville",178,"COG","Congo","COG","Congo","CON","Congo Brazzaville",484,"Congo","Congo","congo-brazzaville",,,"Africa"
+"COG","Congo-Brazzaville",178,"COG","Congo","COG","Congo","CON","Congo Brazzaville",484,"Congo","Congo (Brazzaville)","congo-brazzaville",,,"Africa"
+"COG","Congo-Brazzaville",178,"COG","Congo","COG","Congo","CON","Congo Brazzaville",484,"Congo","Republic of Congo (Brazzaville)","congo-brazzaville",,,"Africa"
+"COD","Congo-Kinshasa",180,"COD","Congo, Democratic Republic of the","COD","D.R. of the Congo","ZAI","Congo Kinshasa",490,"Democratic Republic of the Congo","Dem. Rep. of the Congo","congo-kinshasa",,,"Africa"
+"COD","Congo-Kinshasa",180,"COD","Congo, Democratic Republic of the","COD","D.R. of the Congo","ZAI","Congo Kinshasa",490,"Democratic Republic of the Congo","Democratic Republic of Congo","congo-kinshasa",,,"Africa"
+"COD","Congo-Kinshasa",180,"COD","Congo, Democratic Republic of the","COD","D.R. of the Congo","ZAI","Congo Kinshasa",490,"Democratic Republic of the Congo","Democratic Republic of the Congo","congo-kinshasa",,,"Africa"
+"COD","Congo-Kinshasa",180,"COD","Congo, Democratic Republic of the","COD","D.R. of the Congo","ZAI","Congo Kinshasa",490,"Democratic Republic of the Congo","Democratic Republic of the Congo (Kinshasa)","congo-kinshasa",,,"Africa"
+"COK","Cook Islands",184,"COK","Cook Islands",,,,,,,,,,,"Asia"
+"CRI","Costa Rica",188,"CRI","Costa Rica","CRI","Costa Rica","COS","Costa Rica",94,"Costa Rica","Costa Rica","costa rica",,,"North America"
+"CIV","Cote d'Ivoire",384,"CIV","Côte d'Ivoire","CIV","Côte d'Ivoire","IVO","Cote D'Ivoire",437,"Ivory Coast","Cote d'Ivoire","cote d'ivoire",,,"Africa"
+"CIV","Cote d'Ivoire",384,"CIV","Côte d'Ivoire","CIV","Côte d'Ivoire","IVO","Cote D'Ivoire",437,"Ivory Coast","côte d'ivoire","cote d'ivoire",,,"Africa"
+"HRV","Croatia",191,"HRV","Croatia","HRV","Croatia","CRO","Croatia",344,"Croatia","Croatia","croatia",,,"Europe"
+"CUB","Cuba",192,"CUB","Cuba","CUB","Cuba","CUB","Cuba",40,"Cuba",,"cuba",,,"North America"
+"CUW","Curacao",531,"CUW","Curaçao",,,,,,,,,,,"North America"
+"CYP","Cyprus South",196,"CYP","Cyprus","CYP","Cyprus","CYP","Cyprus",352,"Cyprus","Cyprus",,,,"Asia"
+"CYN","Cyprus North",,,,,,,,,,"Northern Cyprus","cyprus",,,"Asia"
+"CZE","Czechia",203,"CZE","Czechia","CZE","Czech Republic","CZR","Czech Republic",316,"Czech Republic","Czech Republic","czechia",1,1,"Europe"
+"CSK","Czechoslovakia",200,"CSK","Czechoslovakia","CSK","Czechoslovakia","CZE","Czechoslovakia",,,,"czechoslovakia",1,1,"Europe"
+"DNK","Denmark",208,"DNK","Denmark","DNK","Denmark","DEN","Denmark",390,"Denmark","Denmark","denmark",1,,"Europe"
+"DJI","Djibouti",262,"DJI","Djibouti","DJI","Djibouti","DJI","Djibouti",522,"Djibouti","Djibouti","djibouti",,,"Africa"
+"DMA","Dominica",212,"DMA","Dominica","DMA","Dominica",,,,,,"dominica",,,"North America"
+"DOM","Dominican Republic",214,"DOM","Dominican Republic","DOM","Dominican Republic","DOM","Dominican Republic",42,"Dominican Republic","Dominican Republic","dominican republic",,,"North America"
+"ECU","Ecuador",218,"ECU","Ecuador","ECU","Ecuador","ECU","Ecuador",130,"Ecuador","Ecuador","ecuador",,,"South America"
+"EGY","Egypt",818,"EGY","Egypt","EGY","Egypt","EGY","Egypt",651,"Egypt","Egypt","egypt",,,"Africa"
+"SLV","El Salvador",222,"SLV","El Salvador","SLV","El Salvador","SAL","El Salvador",92,"El Salvador","El Salvador","el salvador",,,"North America"
+"GNQ","Equatorial Guinea",226,"GNQ","Equatorial Guinea","GNQ","Equatorial Guinea","EQG","Equatorial Guinea",411,"Equatorial Guinea",,"equatorial guinea",,,"Africa"
+"ERI","Eritrea",232,"ERI","Eritrea",,,"ERI","Eritrea",531,"Eritrea",,"eritrea",,,"Africa"
+"EST","Estonia",233,"EST","Estonia","EST","Estonia","EST","Estonia",366,"Estonia","Estonia","estonia",1,,"Europe"
+"SWZ","Eswatini",748,"SWZ","Eswatini","SWZ","Swaziland","SWA","Swaziland",572,"Swaziland","Swaziland","eswatini",,,"Africa"
+"SWZ","Eswatini",748,"SWZ","Eswatini","SWZ","Swaziland","SWA","Swaziland",572,"Swaziland","Swaziland","swaziland",,,"Africa"
+"ETH","Ethiopia",231,"ETH","Ethiopia","ETH","Ethiopia","ETH","Ethiopia",530,"Ethiopia","Ethiopia","ethiopia",,,"Africa"
+"ETH","Ethiopia",231,"ETH","Ethiopia","ETH","Ethiopia","ETI","Ethiopia",530,"Ethiopia","Ethiopia","ethiopia",,,"Africa"
+"FLK","Falkland Islands",238,"FLK","Falkland Islands (Malvinas)",,,,,,,,,,,"South America"
+"FRO","Faroe Islands",234,"FRO","Faroe Islands",,,,,,,,,,,"Europe"
+"FJI","Fiji",242,"FJI","Fiji",,,"FJI","Fiji",,,,"fiji",,,"Asia"
+"FIN","Finland",246,"FIN","Finland","FIN","Finland","FIN","Finland",375,"Finland","Finland","finland",1,,"Europe"
+"FRA","France",250,"FRA","France","FRA","France","FRN","France",220,"France","France","france",1,,"Europe"
+"GUF","French Guiana",254,"GUF","French Guiana",,,,,,,,,,,"South America"
+"PYF","French Polynesia",258,"PYF","French Polynesia",,,,,,,,,,,"Asia"
+"ATF","French Southern Territories",260,"ATF","French Southern Territories",,,,,,,,,,,"Africa"
+"GAB","Gabon",266,"GAB","Gabon","GAB","Gabon","GAB","Gabon",481,"Gabon","Gabon","gabon",,,"Africa"
+"GMB","Gambia",270,"GMB","Gambia","GMB","Gambia","GAM","Gambia",420,"Gambia","Gambia (The)","gambia",,,"Africa"
+"GEO","Georgia",268,"GEO","Georgia","GEO","Georgia","GRG","Georgia",372,"Georgia","Georgia","georgia",,,"Asia"
+"DEU","Germany",276,"DEU","Germany","DEU","Germany","GMY","Prussia-Germany",255,"Germany","Germany","germany",1,,"Europe"
+"GCF","German Confederation",,,,,,,,,,,,,,"Europe"
+"DDR","Germany East",278,"DDR","German Democratic Republic",,,"GDR","Germany East",,,,,,,"Europe"
+"BRD","Germany West",280,"DEU","Germany, Federal Republic of",,,"GFR","Germany West",,,,,,,"Europe"
+"GHA","Ghana",288,"GHA","Ghana","GHA","Ghana","GHA","Ghana",452,"Ghana","Ghana","ghana",,,"Africa"
+"GCL","Gran Colombia",,,,,,"GCL","Gran Colombia",,,,,,,"North America"
+"GIB","Gibraltar",292,"GIB","Gibraltar",,,,,,,,,,,"Europe"
+"GRC","Greece",300,"GRC","Greece","GRC","Greece","GRC","Greece",350,"Greece","Greece","greece",1,,"Europe"
+"GRL","Greenland",304,"GRL","Greenland",,,,,,,,,,,"North America"
+"GRD","Grenada",308,"GRD","Grenada",,,,,,,,"grenada",,,"North America"
+"GLP","Guadeloupe",312,"GLP","Guadeloupe",,,,,,,,,,,"North America"
+"GUM","Guam",316,"GUM","Guam",,,,,,,,,,,"Asia"
+"GTM","Guatemala",320,"GTM","Guatemala","GTM","Guatemala","GUA","Guatemala",90,"Guatemala","Guatemala","guatemala",,,"North America"
+"GGY","Guernsey",831,"GGY","Guernsey",,,,,,,,,,,"Europe"
+"GIN","Guinea",324,"GIN","Guinea","GIN","Guinea","GUI","Guinea",438,"Guinea","Guinea","guinea",,,"Africa"
+"GNB","Guinea-Bissau",624,"GNB","Guinea-Bissau","GNB","Guinea-Bissau","GNB","Guinea-Bissau",404,"Guinea-Bissau",,"guinea-bissau",,,"Africa"
+"GUY","Guyana",328,"GUY","Guyana",,,"GUY","Guyana",110,"Guyana","Guyana","guyana",,,"South America"
+"HTI","Haiti",332,"HTI","Haiti","HTI","Haiti","HAI","Haiti",41,"Haiti","Haiti","haiti",,,"North America"
+"HMD","Heard Island and McDonald Islands",334,"HMD","Heard Island and McDonald Islands",,,,,,,,,,,"Asia"
+"VAT","Holy See",336,"VAT","Holy See",,,,,,,,,,,"Europe"
+"HND","Honduras",340,"HND","Honduras","HND","Honduras","HON","Honduras",91,"Honduras","Honduras","honduras",,,"North America"
+"HKG","Hong Kong",344,"HKG","Hong Kong","HKG","China, Hong Kong SAR",,,,,"Hong Kong","hong kong",,,"Asia"
+"HUN","Hungary",348,"HUN","Hungary","HUN","Hungary","HUN","Hungary",310,"Hungary","Hungary","hungary",1,1,"Europe"
+"ISL","Iceland",352,"ISL","Iceland","ISL","Iceland",,,395,"Iceland","Iceland","iceland",1,,"Europe"
+"IND","India",356,"IND","India","IND","India","IND","India",750,"India","India","india",,,"Asia"
+"IDN","Indonesia",360,"IDN","Indonesia","IDN","Indonesia","INS","Indonesia",850,"Indonesia","Indonesia","indonesia",,,"Asia"
+"IRN","Iran",364,"IRN","Iran (Islamic Republic of)","IRN","Iran (Islamic Republic of)","IRN","Iran",630,"Iran","Iran","iran",,,"Asia"
+"IRN","Iran",364,"IRN","Iran (Islamic Republic of)","IRN","Iran (Islamic Republic of)","IRN","Iran",630,"Iran","Iran (Islamic Republic of)","iran",,,"Asia"
+"IRQ","Iraq",368,"IRQ","Iraq","IRQ","Iraq","IRQ","Iraq",645,"Iraq","Iraq","iraq",,,"Asia"
+"IRL","Ireland",372,"IRL","Ireland","IRL","Ireland","IRE","Ireland",205,"Ireland","Ireland","ireland",1,,"Europe"
+"IMN","Isle of Man",833,"IMN","Isle of Man",,,,,,,,,,,"Europe"
+"ISR","Israel",376,"ISR","Israel","ISR","Israel","ISR","Israel",666,"Israel","Israel","israel",1,,"Asia"
+"ITA","Italy",380,"ITA","Italy","ITA","Italy","ITA","Italy",325,"Italy","Italy","italy",1,,"Europe"
+"JAM","Jamaica",388,"JAM","Jamaica","JAM","Jamaica","JAM","Jamaica",,,"Jamaica","jamaica",,,"North America"
+"JPN","Japan",392,"JPN","Japan","JPN","Japan","JPN","Japan",740,"Japan","Japan","japan",1,,"Asia"
+"JEY","Jersey",832,"JEY","Jersey",,,,,,,,,,,"Europe"
+"JOR","Jordan",400,"JOR","Jordan","JOR","Jordan","JOR","Jordan",663,"Jordan","Jordan","jordan",,,"Asia"
+"KAZ","Kazakhstan",398,"KAZ","Kazakhstan","KAZ","Kazakhstan","KZK","Kazakhstan",705,"Kazakhstan","Kazakhstan","kazakhstan",,,"Asia"
+"KEN","Kenya",404,"KEN","Kenya","KEN","Kenya","KEN","Kenya",501,"Kenya","Kenya","kenya",,,"Africa"
+"KIR","Kiribati",296,"KIR","Kiribati",,,,,,,,"kiribati",,,"Asia"
+"KRE","Korea",,,,,,"KOR","Korea",,,,,,,"Asia"
+"KOR","Korea South",410,"KOR","Korea, Republic of","KOR","Republic of Korea","ROK","Korea South",732,"South Korea","Republic of Korea","korea south",,,"Asia"
+"PRK","Korea North",408,"PRK","Korea (Democratic People's Republic of)","PRK","D.P.R. of Korea","PRK","Korea North",731,"North Korea",,"korea north",,,"Asia"
+"RKS","Kosovo",999,"RKS","Kosovo, Republic of",,,"KOS","Kosovo",,,"Kosovo","kosovo",,,"Europe"
+"KWT","Kuwait",414,"KWT","Kuwait","KWT","Kuwait","KUW","Kuwait",,,"Kuwait","kuwait",,,"Asia"
+"KGZ","Kyrgyzstan",417,"KGZ","Kyrgyzstan","KGZ","Kyrgyzstan","KYR","Kyrgyzstan",703,"Kyrgyzstan","Kyrgyzstan","kyrgyzstan",,,"Asia"
+"LAO","Laos",418,"LAO","Lao People's Democratic Republic","LAO","Lao People's DR","LAO","Laos",812,"Laos","Lao People's Democratic Republic","laos",,,"Asia"
+"LVA","Latvia",428,"LVA","Latvia","LVA","Latvia","LAT","Latvia",367,"Latvia","Latvia","latvia",1,,"Europe"
+"LBN","Lebanon",422,"LBN","Lebanon","LBN","Lebanon","LEB","Lebanon",660,"Lebanon","Lebanon","lebanon",,,"Asia"
+"LSO","Lesotho",426,"LSO","Lesotho","LSO","Lesotho","LES","Lesotho",570,"Lesotho","Lesotho","lesotho",,,"Africa"
+"LBR","Liberia",430,"LBR","Liberia","LBR","Liberia","LBR","Liberia",450,"Liberia","Liberia","liberia",,,"Africa"
+"LBY","Libya",434,"LBY","Libya","LBY","Libya","LIB","Libya",,,"Libya","libya",,,"Africa"
+"LBY","Libya",434,"LBY","Libya","LBY","Libya","LIB","Libya",,,"State of Libya","libya",,,"Africa"
+"LIE","Liechtenstein",438,"LIE","Liechtenstein",,,,,,,,,,,"Europe"
+"LTU","Lithuania",440,"LTU","Lithuania","LTU","Lithuania","LIT","Lithuania",368,"Lithuania","Lithuania","lithuania",,,"Europe"
+"LUX","Luxembourg",442,"LUX","Luxembourg","LUX","Luxembourg","LUX","Luxembourg",,,"Luxembourg","luxembourg",1,,"Europe"
+"MAC","Macao",446,"MAC","Macao",,,,,,,,"macao",,,"Asia"
+"MDG","Madagascar",450,"MDG","Madagascar","MDG","Madagascar","MAG","Madagascar",580,"Madagascar","Madagascar","madagascar",,,"Africa"
+"MWI","Malawi",454,"MWI","Malawi","MWI","Malawi","MAW","Malawi",553,"Malawi","Malawi","malawi",,,"Africa"
+"MYS","Malaysia",458,"MYS","Malaysia","MYS","Malaysia","MAL","Malaysia",820,"Malaysia","Malaysia","malaysia",,,"Asia"
+"MDV","Maldives",462,"MDV","Maldives",,,,,,,,"maldives",,,"Asia"
+"MLI","Mali",466,"MLI","Mali","MLI","Mali","MLI","Mali",432,"Mali","Mali","mali",,,"Africa"
+"MLT","Malta",470,"MLT","Malta","MLT","Malta",,,,,"Malta","malta",,,"Europe"
+"MHL","Marshall Islands",584,"MHL","Marshall Islands",,,,,,,,,,,"Asia"
+"MTQ","Martinique",474,"MTQ","Martinique",,,,,,,,,,,"North America"
+"MRT","Mauritania",478,"MRT","Mauritania","MRT","Mauritania","MAA","Mauritania",435,"Mauritania","Mauritania","mauritania",,,"Africa"
+"MUS","Mauritius",480,"MUS","Mauritius","MUS","Mauritius","MAS","Mauritius",,,"Mauritius","mauritius",,,"Africa"
+"MYT","Mayotte",175,"MYT","Mayotte",,,,,,,,,,,"Africa"
+"MEX","Mexico",484,"MEX","Mexico","MEX","Mexico","MEX","Mexico",70,"Mexico","Mexico","mexico",1,,"North America"
+"MOD","Modena",,,,,,"MOD","Modena",,,,,,,"Europe"
+"FSM","Micronesia",583,"FSM","Micronesia (Federated States of)",,,,,,,,,,,"Asia"
+"MDA","Moldova",498,"MDA","Moldova, Republic of","MDA","Republic of Moldova","MLD","Moldova",359,"Moldova","Moldova (Republic of)","moldova",,1,"Europe"
+"MDA","Moldova",498,"MDA","Moldova, Republic of","MDA","Republic of Moldova","MLD","Moldova",359,"Moldova","Republic of Moldova","moldova",,1,"Europe"
+"MCO","Monaco",492,"MCO","Monaco",,,,,,,,,,,"Europe"
+"MNG","Mongolia",496,"MNG","Mongolia","MNG","Mongolia","MON","Mongolia",712,"Mongolia","Mongolia","mongolia",,,"Asia"
+"MNE","Montenegro",499,"MNE","Montenegro","MNE","Montenegro","MNT","Montenegro",,,"Montenegro","montenegro",,,"Europe"
+"MSR","Montserrat",500,"MSR","Montserrat",,,,,,,,,,,"North America"
+"MAR","Morocco",504,"MAR","Morocco","MAR","Morocco","MOR","Morocco",600,"Morocco","Morocco","morocco",,,"Africa"
+"MOZ","Mozambique",508,"MOZ","Mozambique","MOZ","Mozambique","MZM","Mozambique",541,"Mozambique","Mozambique","mozambique",,,"Africa"
+"MMR","Myanmar",104,"MMR","Myanmar","MMR","Myanmar","MYA","Myanmar (Burma)",775,"Myanmar","Myanmar","myanmar",,,"Asia"
+"NAG","Nagorno-Karabakh",,,,,,,,,,"Nagorno-Karabakh Region",,,,"Asia"
+"NAM","Namibia",516,"NAM","Namibia","NAM","Namibia","NAM","Namibia",565,"Namibia","Namibia","namibia",,,"Africa"
+"NRU","Nauru",520,"NRU","Nauru",,,,,,,,,,,"Asia"
+"NPL","Nepal",524,"NPL","Nepal","NPL","Nepal","NEP","Nepal",790,"Nepal","Nepal","nepal",,,"Asia"
+"NLD","Netherlands",528,"NLD","Netherlands","NLD","Netherlands","NTH","Netherlands",210,"Netherlands","Netherlands","netherlands",1,,"Europe"
+"NCL","New Caledonia",540,"NCL","New Caledonia",,,,,,,,,,,"Asia"
+"NZL","New Zealand",554,"NZL","New Zealand","NZL","New Zealand","NEW","New Zealand",920,"New Zealand","New Zealand","new zealand",1,,"Asia"
+"NIC","Nicaragua",558,"NIC","Nicaragua","NIC","Nicaragua","NIC","Nicaragua",93,"Nicaragua","Nicaragua","nicaragua",,,"North America"
+"NER","Niger",562,"NER","Niger","NER","Niger","NIR","Niger",436,"Niger","Niger","niger",,,"Africa"
+"NGA","Nigeria",566,"NGA","Nigeria","NGA","Nigeria","NIG","Nigeria",475,"Nigeria","Nigeria","nigeria",,,"Africa"
+"NIU","Niue",570,"NIU","Niue",,,,,,,,,,,"Asia"
+"NFK","Norfolk Island",574,"NFK","Norfolk Island",,,,,,,,,,,"Asia"
+"MKD","North Macedonia",807,"MKD","North Macedonia","MKD","TFYR of Macedonia","MAC","Macedonia",343,"Macedonia","Macedonia (FYRO)","fyr of macedonia",,,"Europe"
+"MKD","North Macedonia",807,"MKD","North Macedonia","MKD","TFYR of Macedonia","MAC","Macedonia",343,"Macedonia","Macedonia (Republic of North)","macedonia",,,"Europe"
+"MKD","North Macedonia",807,"MKD","North Macedonia","MKD","TFYR of Macedonia","MAC","Macedonia",343,"Macedonia","The Former Yugoslav Republic of Macedonia","north macedonia",,,"Europe"
+"MNP","Northern Mariana Islands",580,"MNP","Northern Mariana Islands",,,,,,,,,,,"Asia"
+"NOR","Norway",578,"NOR","Norway","NOR","Norway","NOR","Norway",385,"Norway","Norway","norway",1,,"Europe"
+"OMN","Oman",512,"OMN","Oman","OMN","Oman","OMA","Oman",,,"Oman","oman",,,"Asia"
+"OFS","Orange Free State",,,,,,"OFS","Orange Free State",,,,,,,"Africa"
+"PAK","Pakistan",586,"PAK","Pakistan","PAK","Pakistan","PAK","Pakistan",770,"Pakistan","Pakistan","pakistan",,,"Asia"
+"PAK","Pakistan",586,"PAK","Pakistan","PAK","Pakistan","PKS","Pakistan",770,"Pakistan","Pakistan","pakistan",,,"Asia"
+"PLW","Palau",585,"PLW","Palau",,,,,,,,,,,"Asia"
+"PSE","Palestine",275,"PSE","Palestine, State of","PSE","State of Palestine",,,,,"Palestine (State of)","palestine",,,"Asia"
+"PSE","Palestine",275,"PSE","Palestine, State of","PSE","State of Palestine",,,,,"Palestinian Territories","palestine",,,"Asia"
+"PSE","Palestine",275,"PSE","Palestine, State of","PSE","State of Palestine",,,,,"Palestinian Territory","palestine",,,"Asia"
+"PSE","Palestine",275,"PSE","Palestine, State of","PSE","State of Palestine",,,,,"State of Palestine","palestine",,,"Asia"
+"PAN","Panama",591,"PAN","Panama","PAN","Panama","PAN","Panama",95,"Panama","Panama","panama",,,"North America"
+"PAP","Papal States",,,,,,"PAP","Papal States",,,,,,,"Europe"
+"PNG","Papua New Guinea",598,"PNG","Papua New Guinea",,,"PNG","Papua New Guinea",910,"Papua New Guinea",,"papua new guinea",,,"Asia"
+"PRY","Paraguay",600,"PRY","Paraguay","PRY","Paraguay","PAR","Paraguay",150,"Paraguay","Paraguay","paraguay",,,"South America"
+"PMA","Parma",,,,,,"PMA","Parma",,,,,,,"Europe"
+"PER","Peru",604,"PER","Peru","PER","Peru","PER","Peru",135,"Peru","Peru","peru",,,"South America"
+"PHL","Philippines",608,"PHL","Philippines","PHL","Philippines","PHI","Philippines",840,"Philippines","Philippines","philippines",,,"Asia"
+"PCN","Pitcairn",612,"PCN","Pitcairn",,,,,,,,,,,"Asia"
+"POL","Poland",616,"POL","Poland","POL","Poland","POL","Poland",290,"Poland","Poland","poland",1,1,"Europe"
+"PRT","Portugal",620,"PRT","Portugal","PRT","Portugal","POR","Portugal",235,"Portugal","Portugal","portugal",1,,"Europe"
+"PRI","Puerto Rico",630,"PRI","Puerto Rico","PRI","Puerto Rico",,,,,"Puerto Rico","puerto rico",,,"South America"
+"QAT","Qatar",634,"QAT","Qatar","QAT","Qatar","QAT","Qatar",694,"Qatar","Qatar","qatar",,,"Asia"
+"REU","Reunion",638,"REU","Réunion",,,,,,,,,,,"Africa"
+"ROU","Romania",642,"ROU","Romania","ROU","Romania","RUM","Romania",360,"Romania","Romania","romania",,1,"Europe"
+"RUS","Russia",643,"RUS","Russian Federation","RUS","Russian Federation","RUS","Russia",365,"Russia","Russia","russia",,1,"Europe"
+"RUS","Russia",643,"RUS","Russian Federation","RUS","Russian Federation","RUS","Russia",365,"Russia","Russian Federation","russia",,1,"Europe"
+"RWA","Rwanda",646,"RWA","Rwanda","RWA","Rwanda","RWA","Rwanda",517,"Rwanda","Rwanda","rwanda",,,"Africa"
+"SAR","Sardinia",,,,,,"SAR","Sardinia",,,,,,,"Europe"
+"SAX","Saxony",,,,,,"SAX","Saxony",,,,,,,"Europe"
+"BLM","Saint Barthelemy",652,"BLM","Saint Barthélemy",,,,,,,,,,,"Africa"
+"SHN","Saint Helena, Ascension and Tristan da Cunha",654,"SHN","Saint Helena, Ascension and Tristan da Cunha",,,,,,,,,,,"Africa"
+"KNA","Saint Kitts and Nevis",659,"KNA","Saint Kitts and Nevis",,,,,,,,,,,"North America"
+"LCA","Saint Lucia",662,"LCA","Saint Lucia","LCA","Saint Lucia",,,,,,"saint lucia",,,"North America"
+"MAF","French Saint Martin",663,"MAF","Saint Martin (French part)",,,,,,,,,,,"North America"
+"SPM","Saint Pierre and Miquelon",666,"SPM","Saint Pierre and Miquelon",,,,,,,,,,,"North America"
+"VCT","Saint Vincent and the Grenadines",670,"VCT","Saint Vincent and the Grenadines",,,,,,,,"saint vincent and grenadines",,,"North America"
+"WSM","Samoa",882,"WSM","Samoa",,,,,,,,"samoa",,,"Asia"
+"SMR","San Marino",674,"SMR","San Marino",,,,,,,,,,,"Europe"
+"STP","Sao Tome and Principe",678,"STP","Sao Tome and Principe","STP","Sao Tome and Principe",,,,,,"sao tome and principe",,,"Africa"
+"SAU","Saudi Arabia",682,"SAU","Saudi Arabia","SAU","Saudi Arabia","SAU","Saudi Arabia",,,"Saudi Arabia","saudi arabia",,,"Asia"
+"SEN","Senegal",686,"SEN","Senegal","SEN","Senegal","SEN","Senegal",433,"Senegal","Senegal","senegal",,,"Africa"
+"FRY","Serbia and Montenegro",891,"SCG","Serbia and Montenegro",,,,,,,,"serbia and montenegro",,,"Europe"
+"SRB","Serbia",688,"SRB","Serbia","SRB","Serbia","SER","Serbia",,,"Serbia","serbia",,,"Europe"
+"SYC","Seychelles",690,"SYC","Seychelles","SYC","Seychelles",,,,,,"seychelles",,,"Africa"
+"SLE","Sierra Leone",694,"SLE","Sierra Leone","SLE","Sierra Leone","SIE","Sierra Leone",451,"Sierra Leone","Sierra Leone","sierra leone",,,"Africa"
+"SGP","Singapore",702,"SGP","Singapore","SGP","Singapore","SIN","Singapore",,,"Singapore","singapore",,,"Asia"
+"SXM","Dutch Sint Maarten",534,"SXM","Sint Maarten (Dutch part)",,,,,,,,,,,"North America"
+"SVK","Slovakia",703,"SVK","Slovakia","SVK","Slovakia","SLO","Slovak Republic",317,"Slovakia","Slovakia","slovakia",,,"Europe"
+"SVN","Slovenia",705,"SVN","Slovenia","SVN","Slovenia","SLV","Slovenia",349,"Slovenia","Slovenia","slovenia",1,,"Europe"
+"SLB","Solomon Islands",90,"SLB","Solomon Islands",,,"SOL","Solomon Islands",,,,"solomon islands",,,"Asia"
+"SOM","Somalia",706,"SOM","Somalia",,,"SOM","Somalia",520,"Somalia","Somalia","somalia",,,"Africa"
+"SML","Somaliland",,,,,,,,,,"Somaliland",,,,"Africa"
+"SML","Somaliland",,,,,,,,,,"Somaliland (Region)",,,,"Africa"
+"ZAF","South Africa",710,"ZAF","South Africa","ZAF","South Africa","SAF","South Africa",560,"South Africa","South Africa","south africa",,,"Africa"
+"SGS","South Georgia and the South Sandwich Islands",239,"SGS","South Georgia and the South Sandwich Islands",,,,,,,,,,,"South America"
+"ESP","Spain",724,"ESP","Spain","ESP","Spain","SPN","Spain",230,"Spain","Spain","spain",1,,"Europe"
+"LKA","Sri Lanka",144,"LKA","Sri Lanka","LKA","Sri Lanka","SRI","Sri Lanka",780,"Sri Lanka","Sri Lanka","sri lanka",,,"Asia"
+"LKA","Sri Lanka",144,"LKA","Sri Lanka","LKA","Sri Lanka","SRI","Sri Lanka",780,"Sri Lanka","Sri Lanka","sri lanka",,,"Asia"
+"SDN","Sudan",729,"SUD","Sudan","SDN","Sudan (Former)","SUD","Sudan",625,"Sudan","Sudan","sudan",,,"Africa"
+"NSD","Sudan North",729,,,,,"SDN","Sudan-North",,,,"sudan north",,,"Africa"
+"SSD","Sudan South",728,"SSD","South Sudan",,,"SSU","South Sudan",,,"South Sudan","south sudan",,,"Africa"
+"SUR","Suriname",740,"SUR","Suriname",,,"SUR","Suriname",115,"Suriname","Suriname","suriname",,,"Europe"
+"SJM","Svalbard and Jan Mayen",744,"SJM","Svalbard and Jan Mayen",,,,,,,,,,,"Europe"
+"SWE","Sweden",752,"SWE","Sweden","SWE","Sweden","SWD","Sweden",380,"Sweden","Sweden","sweden",1,,"Europe"
+"CHE","Switzerland",756,"CHE","Switzerland","CHE","Switzerland","SWZ","Switzerland",225,"Switzerland","Switzerland","switzerland",1,,"Europe"
+"SYR","Syria",760,"SYR","Syrian Arab Republic","SYR","Syrian Arab Republic","SYR","Syria",652,"Syria","Syria","syria",,,"Asia"
+"TWN","Taiwan",158,"TWN","Taiwan, Province of China","TWN","Taiwan, Province of China","TAW","Taiwan",713,"Taiwan","Taiwan","taiwan",,,"Asia"
+"TWN","Taiwan",158,"TWN","Taiwan, Province of China","TWN","Taiwan, Province of China","TAW","Taiwan",713,"Taiwan","Taiwan Province of China","taiwan",,,"Asia"
+"TWN","Taiwan",158,"TWN","Taiwan, Province of China","TWN","Taiwan, Province of China","TAW","Taiwan",713,"Taiwan","Taiwan, Province of China","taiwan",,,"Asia"
+"TJK","Tajikistan",762,"TJK","Tajikistan","TJK","Tajikistan","TAJ","Tajikistan",702,"Tajikistan","Tajikistan","tajikistan",,,"Asia"
+"TZA","Tanzania",834,"TZA","Tanzania, United Republic of","TZA","U.R. of Tanzania: Mainland","TAZ","Tanzania",510,"Tanzania","Tanzania","tanzania",,,"Africa"
+"TZA","Tanzania",834,"TZA","Tanzania, United Republic of","TZA","U.R. of Tanzania: Mainland","TAZ","Tanzania",510,"Tanzania","Tanzania (United Rep. of)","tanzania",,,"Africa"
+"TZA","Tanzania",834,"TZA","Tanzania, United Republic of","TZA","U.R. of Tanzania: Mainland","TAZ","Tanzania",510,"Tanzania","United Republic of Tanzania","tanzania",,,"Africa"
+"THA","Thailand",764,"THA","Thailand","THA","Thailand","THI","Thailand",800,"Thailand","Thailand","thailand",,,"Asia"
+"TLS","Timor-Leste",626,"TLS","Timor-Leste",,,"ETM","Timor Leste",,,,"timor-leste",,,"Asia"
+"TGO","Togo",768,"TGO","Togo","TGO","Togo","TOG","Togo",461,"Togo","Togo","togo",,,"Africa"
+"TKL","Tokelau",772,"TKL","Tokelau",,,,,,,,,,,"Asia"
+"TON","Tonga",776,"TON","Tonga",,,,,,,,"tonga",,,"Asia"
+"TTO","Trinidad and Tobago",780,"TTO","Trinidad and Tobago","TTO","Trinidad and Tobago","TRI","Trinidad and Tobago",,,"Trinidad and Tobago","trinidad and tobago",,,"North America"
+"TUN","Tunisia",788,"TUN","Tunisia","TUN","Tunisia","TUN","Tunisia",616,"Tunisia","Tunisia","tunisia",,,"Africa"
+"TUR","Turkey",792,"TUR","Turkey","TUR","Turkey","TUR","Turkey",640,"Turkey","Turkey","turkey",1,,"Asia"
+"TKM","Turkmenistan",795,"TKM","Turkmenistan","TKM","Turkmenistan","TKM","Turkmenistan",701,"Turkmenistan","Turkmenistan","turkmenistan",,,"Asia"
+"TCA","Turks and Caicos Islands",796,"TCA","Turks and Caicos Islands",,,,,,,,,,,"North America"
+"TUS","Tuscany",,,,,,"TUS","Tuscany",,,,,,,"Europe"
+"SIC","Two Sicilies",,,,,,"SIC","Two Sicilies",,,,,,,"Europe"
+"TUV","Tuvalu",798,"TUV","Tuvalu",,,,,,,,,,,"Asia"
+"UGA","Uganda",800,"UGA","Uganda","UGA","Uganda","UGA","Uganda",500,"Uganda","Uganda","uganda",,,"Africa"
+"UKR","Ukraine",804,"UKR","Ukraine","UKR","Ukraine","UKR","Ukraine",369,"Ukraine","Ukraine","ukraine",,,"Europe"
+"ARE","United Arab Emirates",784,"ARE","United Arab Emirates","ARE","United Arab Emirates","UAE","UAE",,,"United Arab Emirates","united arab emirates",,,"Asia"
+"GBR","United Kingdom",826,"GBR","United Kingdom of Great Britain and Northern Ireland","GBR","United Kingdom","UKG","United Kingdom",200,"United Kingdom","United Kingdom","united kingdom",1,,"Europe"
+"UMI","United States Minor Outlying Islands",581,"UMI","United States Minor Outlying Islands",,,,,,,,,,,"Asia"
+"USA","United States",840,"USA","United States of America","USA","United States","USA","United States",2,"United States of America","United States of America","united states",1,,"North America"
+"USA","United States",840,"USA","United States of America","USA","United States","USA","United States",2,"United States of America","USA","united states of america",1,,"North America"
+"URY","Uruguay",858,"URY","Uruguay","URY","Uruguay","URU","Uruguay",165,"Uruguay","Uruguay","uruguay",,,"South America"
+"SUN","Soviet Union",810,"SUN","Soviet Union","SUN","Former USSR","USR","USSR",,,,"soviet union",,1,"Europe"
+"UZB","Uzbekistan",860,"UZB","Uzbekistan","UZB","Uzbekistan","UZB","Uzbekistan",704,"Uzbekistan","Uzbekistan","uzbekistan",,,"Asia"
+"VUT","Vanuatu",548,"VUT","Vanuatu",,,,,,,,"vanuatu",,,"Asia"
+"VEN","Venezuela",862,"VEN","Venezuela (Bolivarian Republic of)","VEN","Venezuela (Bolivarian Republic of)","VEN","Venezuela",101,"Venezuela","Venezuela","venezuela",,,"South America"
+"VEN","Venezuela",862,"VEN","Venezuela (Bolivarian Republic of)","VEN","Venezuela (Bolivarian Republic of)","VEN","Venezuela",101,"Venezuela","Venezuela (Bolivarian Republic of)","venezuela",,,"South America"
+"VNM","Vietnam",704,"VNM","Viet Nam","VNM","Viet Nam","VIE","Vietnam",816,"Vietnam","Vietnam","vietnam",,,"Asia"
+"DRV","Vietnam North",,,,,,"DRV","Vietnam North",,,,,,,"Asia"
+"RVN","Vietnam South",,,,,,"RVN","Vietnam South",,,,,,,"Asia"
+"VGB","United Kingdom Virgin Islands",92,"VGB","Virgin Islands (British)",,,,,,,,,,,"North America"
+"VIR","United States Virgin Islands",850,"VIR","Virgin Islands (U.S.)",,,,,,,,,,,"North America"
+"WLF","Wallis and Futuna",876,"WLF","Wallis and Futuna",,,,,,,,,,,"Asia"
+"ESH","Western Sahara",732,"ESH","Western Sahara",,,,,,,,,,,"Africa"
+"WRT","Wuerttemburg",,,,,,"WRT","Wuerttemburg",,,,,,,"Europe"
+"YEM","Yemen",887,"YEM","Yemen","YEM","Yemen","YEM","Yemen",679,"Yemen","Yemen","yemen",,,"Asia"
+"NYM","Yemen North",,,,,,"YAR","Yemen North",,,,,,,"Asia"
+"SYM","Yemen South",,,,,,"YPR","Yemen South",,,,,,,"Asia"
+"YUG","Yugoslavia",890,"YUG","Yugoslavia","YUG","Former Yugoslavia","YGS","Yugoslavia",345,"Yugoslavia",,"yugoslavia",,1,"Europe"
+"YUG","Yugoslavia",890,"YUG","Yugoslavia, Socialist Federal Republic of","YUG","Former Yugoslavia","YUG","Yugoslavia",345,"Yugoslavia",,"yugoslavia",,1,"Europe"
+"ZMB","Zambia",894,"ZMB","Zambia","ZMB","Zambia","ZAM","Zambia",551,"Zambia","Zambia","zambia",,,"Africa"
+"ZWE","Zimbabwe",716,"ZWE","Zimbabwe","ZWE","Zimbabwe","ZIM","Zimbabwe",552,"Zimbabwe","Zimbabwe","zimbabwe",,,"Africa"
