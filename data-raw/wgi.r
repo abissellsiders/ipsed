@@ -1,16 +1,3 @@
-#####
-# documentation
-#####
-# xlsx files were prepared manually
-# [1] downloaded pdfs of the 2010-19 reports (n=10)
-# [2] subset pdfs to "Full Table" pages (in filename "##-##")
-# [3] use Adobe Acrobat DC to export to XLSX
-# [4] clean XLSX of repeat/garbage rows
-# [5] R code below
-
-#####
-# init
-#####
 require("data.table")
 require("readxl")
 

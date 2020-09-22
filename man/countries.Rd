@@ -5,7 +5,7 @@
 \alias{countries}
 \title{Country Conversion Dataset}
 \format{
-An object of class \code{data.table} (inherits from \code{data.frame}) with 312 rows and 16 columns.
+An object of class \code{data.table} (inherits from \code{data.frame}) with 312 rows and 15 columns.
 }
 \usage{
 countries

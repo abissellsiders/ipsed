@@ -1,3 +1,9 @@
+# xlsx files were prepared manually
+# [1] downloaded pdfs of the 2010-19 reports (n=10)
+# [2] subset pdfs to "Full Table" pages (in filename "##-##")
+# [3] use Adobe Acrobat DC to export to XLSX
+# [4] clean XLSX of repeat/garbage rows
+
 https//www.cafonline.org/about-us/publications/2019-publications/caf-world-giving-index-10th-edition
 https//www.cafonline.org/about-us/publications/2018-publications/caf-world-giving-index-2018
 https//www.cafonline.org/about-us/publications/2017-publications/caf-world-giving-index-2017
