@@ -4,17 +4,17 @@ Rank,Country,Note
 3,Denmark,8.24
 4,Netherlands,9.22
 5,Sweden,9.47
-6,New,Zealand,10.06
+6,New Zealand,10.06
 7,Austria,10.85
 8,Canada,10.99
 9,Jamaica,11.18
 10,Estonia,11.19
 11,Ireland,11.20
 12,Germany,11.47
-13,Czech,Republic,11.62
+13,Czech Republic,11.62
 14,Slovakia,11.66
 15,Belgium,11.98
-16,Costa,Rica,12.26
+16,Costa Rica,12.26
 17,Namibia,12.50
 18,Poland,12.71
 19,Luxembourg,13.61
@@ -32,42 +32,42 @@ Rank,Country,Note
 31,Lithuania,18.80
 32,Andorra,19.87
 33,Spain,19.95
-34,United,Kingdom,20
+34,United Kingdom,20
 35,Slovenia,20.55
-36,Cabo,Verde,20.69
+36,Cabo Verde,20.69
 38,France,21.15
-39,South,Africa,22.06
+39,South Africa,22.06
 40,Samoa,22.32
-41,Trinidad,and,Tobago,22.39
+41,Trinidad and Tobago,22.39
 42,Botswana,22.91
 43,Chile,23
 44,Tonga,23.37
-45,El,Salvador,23.66
-46,Burkina,Faso,23.79
+45,El Salvador,23.66
+46,Burkina Faso,23.79
 47,Niger,23.85
 48,Malta,24.16
-49,United,States,24.41
+49,United States,24.41
 50,Comoros,24.52
 51,Taiwan,24.83
 52,Romania,24.90
 53,Haïti,25.08
 54,Mongolia,25.25
 55,Mauritania,25.27
-56,Papua,New,Guinea,25.87
+56,Papua New Guinea,25.87
 57,Argentina,26.11
 58,Croatia,26.12
 59,Malawi,26.41
-60,South,Korea,26.55
+60,South Korea,26.55
 61,Japan,26.95
 62,Guyana,27.21
-63,Dominican,Republic,27.31
+63,Dominican Republic,27.31
 64,Madagascar,27.43
 65,Hungary,27.44
 66,Bosnia-Herzegovina,27.51
 67,Serbia,27.66
 68,Mauritius,27.69
 69,Georgia,27.70
-70,Hong,Kong,27.76
+70,Hong Kong,27.76
 71,Senegal,27.77
 72,Moldova,27.85
 73,Italy,27.94
@@ -75,14 +75,14 @@ Rank,Country,Note
 75,Tanzania,28.09
 77,Lesotho,28.36
 78,Armenia,28.43
-79,Sierra,Leone,28.47
+79,Sierra Leone,28.47
 80,Togo,28.50
-81,Guinea,Bissau,28.70
+81,Guinea Bissau,28.70
 82,Albania,28.77
 83,Panama,28.98
 84,Benin,29.24
 85,Mozambique,29.98
-86,Côte,d’Ivoire,30.45
+86,Côte d’Ivoire,30.45
 88,Kyrgyzstan,30.69
 89,Liberia,30.78
 90,Kuwait,30.84
@@ -105,27 +105,27 @@ Rank,Country,Note
 107,Congo-Brazzaville,33
 108,Ecuador,33.65
 109,Paraguay,33.74
-110,Central,African,Republic,33.84
+110,Central African Republic,33.84
 111,Nigeria,34.09
 112,Maldives,34.32
 113,Zambia,34.35
 114,Montenegro,34.63
 115,Qatar,35.35
 116,Tajikistan,36.19
-117,North,Macedonia,36.26
+117,North Macedonia,36.26
 118,Mali,36.33
 119,Algeria,36.63
-120,United,Arab,Emirates,36.73
+120,United Arab Emirates,36.73
 121,Brunei,36.76
 122,Afghanistan,37.44
 123,Angola,37.84
 124,Guatemala,37.92
-125,South,Sudan,38.04
+125,South Sudan,38.04
 126,Tunisia,38.68
 127,Oman,38.83
 128,Colombia,39.08
 129,Ukraine,39.10
-130,Morocco,/,Western,Sahara,39.19
+130,Morocco / Western Sahara,39.19
 131,Zimbabwe,39.19
 132,Honduras,39.27
 133,Cameroon,39.63
@@ -145,7 +145,7 @@ Rank,Country,Note
 147,Malaysia,43.29
 148,Mexico,43.69
 149,Turkey,44.16
-150,Democratic,Republic,of,Congo,44.31
+150,Democratic Republic of Congo,44.31
 151,Gambia,44.50
 152,Russia,44.97
 153,Singapore,45.87
@@ -159,10 +159,10 @@ Rank,Country,Note
 161,Rwanda,56.57
 162,Azerbaijan,58.41
 163,Bahrain,58.69
-164,Saudi,Arabia,59.41
-165,Sri,Lanka,60.28
+164,Saudi Arabia,59.41
+165,Sri Lanka,60.28
 166,Uzbekistan,61.14
-167,Equatorial,Guinea,66.23
+167,Equatorial Guinea,66.23
 168,Yemen,66.36
 169,Cuba,70.21
 170,Djibouti,71.04
@@ -174,5 +174,5 @@ Rank,Country,Note
 176,China,73.55
 177,Syria,77.29
 178,Turkmenistan,80.83
-179,North,Korea,83.25
+179,North Korea,83.25
 180,Eritrea,84.86

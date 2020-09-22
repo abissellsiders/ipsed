@@ -60,7 +60,7 @@ https://web.archive.org/web/20130725054715/http://en.rsf.org/IMG/xlsx/2013_wpfi_
 # 2014
 http://rsf.org/index2014/en-index2014.php
 https://web.archive.org/web/20140214120404/http://rsf.org/index2014/en-index2014.php
-https://web.archive.org/web/20140214120404/http://rsf.org/index2014/data/index2.csv
+https://web.archive.org/web/20140214120404/http://rsf.org/index2014/data/index2.csv (weirdly formatted, don't use)
 
 # 2015
 https://rsf.org/en/ranking/2015
