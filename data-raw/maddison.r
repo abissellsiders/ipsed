@@ -4,7 +4,7 @@ require("data.table")
 get_maddison = function() {
   # download file
   path = tempfile()
-  download.file("https://www.rug.nl/ggdc/historicaldevelopment/maddison/data/mpd2018.xlsx", path, mode="wb")
+  download.file("https://github.com/abissellsiders/ipsed/raw/master/data-raw/maddison/mpd2018.xlsx", path, mode="wb")
   # read from excel
   maddison_df = read_excel(path, sheet = "Full data")
   # data.frame to data.table

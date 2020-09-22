@@ -297,8 +297,6 @@ get_cpi = function() {
   #####
   # convert country names
   #####
-  countries = ipsed::countries
-  # countries = fread(paste0("C:/Users/", Sys.info()["effective_user"], "/google_drive/research/_packages/ipsed/data-raw/countries.csv"))
   # convert country codes
   short_convert = setNames(countries[["master_short"]], countries[["cpi_country"]])
   cpi[, country_code := short_convert[country_name]]

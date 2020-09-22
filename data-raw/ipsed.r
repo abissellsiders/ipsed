@@ -1,13 +1,5 @@
 get_fipsed = function(...) {
-  # if arguments, merge given datasets; else merge all datasets
-  if (...length() > 0) {
-    dt_list = list(...)
-  } else {
-    maddison = get_maddison()
-    polity = get_polity()
-    wgi = get_wgi()
-    dt_list = list(maddison, polity, wgi)
-  }
+  dt_list = list(...)
   # merge all data by code, name, year
   merge_codenameyear = function(...) {
     merge(..., by = c("country_code", "country_name", "year"), all = TRUE)
@@ -25,3 +17,14 @@ get_fipsed = function(...) {
 
   return(ipsed_dt)
 }
+
+
+# # old:   # if arguments, merge given datasets; else merge all datasets
+# if (...length() > 0) {
+#   dt_list = list(...)
+# } else {
+#   maddison = get_maddison()
+#   polity = get_polity()
+#   wgi = get_wgi()
+#   dt_list = list(maddison, polity, wgi)
+# }

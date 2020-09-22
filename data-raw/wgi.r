@@ -18,12 +18,13 @@ get_wgi = function() {
   #####
   # read data
   #####
-  wgi_wd = paste0("C:/Users/", Sys.info()["effective_user"], "/google_drive/research/_packages/ipsed/data-raw/wgi")
-  setwd(wgi_wd)
-
   # 2010
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2010_34-38.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2010 = data.table(read_xlsx("caf_wgi_2010_34-38.xlsx",
+  dt_2010 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money", "wgi_time", "wgi_stranger", "wellbeing")))
   # wellbeing index not in other years; drop column
@@ -32,8 +33,12 @@ get_wgi = function() {
   dt_2010[, year := 2010]
 
   # 2011
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2011_42-47.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2011 = data.table(read_xlsx("caf_wgi_2011_42-47.xlsx",
+  dt_2011 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money", "wgi_time", "wgi_stranger", "wgi_2010_rank", "wgi_2010_score")))
   # 2010 score & rank unnecessary; drop columns
@@ -44,56 +49,84 @@ get_wgi = function() {
   dt_2011[, year := 2011]
 
   # 2012
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2012_62-66.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2012 = data.table(read_xlsx("caf_wgi_2012_62-66.xlsx",
+  dt_2012 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money", "wgi_money_rank", "wgi_time", "wgi_time_rank", "wgi_stranger", "wgi_stranger_rank")))
   # add year
   dt_2012[, year := 2012]
 
   # 2013
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2013_28-30.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2013 = data.table(read_xlsx("caf_wgi_2013_28-30.xlsx",
+  dt_2013 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year
   dt_2013[, year := 2013]
 
   # 2014
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2014_33-35.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2014 = data.table(read_xlsx("caf_wgi_2014_33-35.xlsx",
+  dt_2014 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year
   dt_2014[, year := 2014]
 
   # 2015
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2015_17-18.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2015 = data.table(read_xlsx("caf_wgi_2015_17-18.xlsx",
+  dt_2015 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year
   dt_2015[, year := 2015]
 
   # 2016
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2016_36-38.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2016 = data.table(read_xlsx("caf_wgi_2016_36-38.xlsx",
+  dt_2016 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year
   dt_2016[, year := 2016]
 
   # 2017
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2017_35-37.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2017 = data.table(read_xlsx("caf_wgi_2017_35-37.xlsx",
+  dt_2017 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year
   dt_2017[, year := 2017]
 
   # 2018
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2018_32-34.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2018 = data.table(read_xlsx("caf_wgi_2018_32-34.xlsx",
+  dt_2018 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # Lithuania is missing money value; drop row
@@ -104,8 +137,12 @@ get_wgi = function() {
   dt_2018[, year := 2018]
 
   # 2019
+  # download
+  url = "https://github.com/abissellsiders/ipsed/raw/master/data-raw/wgi/caf_wgi_2019_23-25.xlsx"
+  path = tempfile()
+  download.file(url, path, mode="wb")
   # read + standard column names
-  dt_2019 = data.table(read_xlsx("caf_wgi_2019_23-25.xlsx",
+  dt_2019 = data.table(read_xlsx(path,
                                  skip = 1,
                                  col_names = c("country_name", "wgi_overall_rank", "wgi_overall", "wgi_money_rank", "wgi_money", "wgi_time_rank", "wgi_time", "wgi_stranger_rank", "wgi_stranger")))
   # add year

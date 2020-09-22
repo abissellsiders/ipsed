@@ -1,7 +1,7 @@
 get_fetns = function() {
   # download file
   path = tempfile()
-  download.file("http://www.columbia.edu/~aw2951/WimmerMin1.0.xls", path, mode="wb")
+  download.file("https://github.com/abissellsiders/ipsed/raw/master/data-raw/fetns/wimmermin.xls", path, mode="wb")
   # read from excel
   fetns_df = readxl::read_excel(path, sheet = "WimmerMin1.0")
   # data.frame to data.table

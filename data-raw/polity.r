@@ -1,7 +1,7 @@
 get_polity = function() {
   # download file
   path = tempfile()
-  download.file("http://www.systemicpeace.org/inscr/p5v2018.xls", path, mode="wb")
+  download.file("https://github.com/abissellsiders/ipsed/raw/master/data-raw/polity/p5v2018.xls", path, mode="wb")
   # read from excel
   polity_df = readxl::read_excel(path, sheet = "p5v2018")
   # data.frame to data.table
