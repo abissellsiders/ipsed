@@ -1,2 +1,2 @@
-# ipsed
-International Political, Social, and Economic datasets
+# Political Economic and Social Datasets with INTernational scope (PESDINT)
+
