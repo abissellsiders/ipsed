@@ -1,2 +1,11 @@
 .Rproj.user
 .Rhistory
+.Rhistory
+.Rproj.user
+data-raw-restricted/**
+**.zip
+**.dta
+**.zip
+**.csv
+**.xls
+**.xlsx

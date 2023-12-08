@@ -1,0 +1,18 @@
+https://electionlab.mit.edu/data
+
+Pres 76-20 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX
+
+House 76-22 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2
+
+Senate 76-20 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU
+
+State & Federal Precinct-Level 2020 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NT66Z3
+
+State Precinct-Level 2018 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZFXEJU
+State Precinct-Level 2016 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSZG1O
+
+Local 2018 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CHYXUP
+Local 2016 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q8OHRS
+
+SLERS https://www.klarnerpolitics.org/datasets-1
+SLERS 1967-2016 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3WZFK9

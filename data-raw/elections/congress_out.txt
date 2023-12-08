@@ -1,0 +1,1959 @@
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="font-size:80%"
+! Year
+! Candidate
+! Chamber
+! State
+! District
+! Votes
+! %
+! Result
+! Notes
+! Ref
+|-
+| [[2014 United States House of Representatives elections|2014]]
+| Adam Shbeita
+| [[United States House of Representatives|House]]
+| California
+| [[California's 44th congressional district|44th]]
+| 9,192
+| {{Percentage bar|13.35|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2014 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Mike Roskey
+| [[United States House of Representatives|House]]
+| California
+| [[California's 3rd congressional district|3rd]]
+| 4,789
+| {{Percentage bar|1.83|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Gerald Allen Frink
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 4,594
+| {{Percentage bar|2.66|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Eugene Ruyle
+| [[United States House of Representatives|House]]
+| California
+| [[California's 6th congressional district|6th]]
+| 5,915
+| {{Percentage bar|2.26|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Gloria La Riva
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 5,161
+| {{Percentage bar|2.46|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Larry Allen
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 1,670
+| {{Percentage bar|0.78|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Richard Castaldo
+| [[United States House of Representatives|House]]
+| California
+| [[California's 30th congressional district|30th]]
+| 3,115
+| {{Percentage bar|1.31|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States House of Representatives elections|2010]]
+| Miriam Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 50th congressional district|50th]]
+| 5,470
+| {{Percentage bar|2.18|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2010 United States Senate elections|2010]]
+| Marsha Feinland
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 135,093
+| {{Percentage bar|1.35|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2010 />
+|-
+| [[2008 United States House of Representatives elections|2008]]
+| Dina Padilla
+| [[United States House of Representatives|House]]
+| California
+| [[California's 3rd congressional district|3rd]]
+| 13,378
+| {{Percentage bar|4.26|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2008 />
+|-
+| [[2008 United States House of Representatives elections|2008]]
+| L Roberts
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 10,731
+| {{Percentage bar|4.85|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2008 />
+|-
+| [[2008 United States House of Representatives elections|2008]]
+| Bill Callison
+| [[United States House of Representatives|House]]
+| California
+| [[California's 7th congressional district|7th]]
+| 6,695
+| {{Percentage bar|2.85|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2008 />
+|-
+| [[2008 United States House of Representatives elections|2008]]
+| Eugene Ruyle
+| [[United States House of Representatives|House]]
+| California
+| [[California's 10th congressional district|10th]]
+| 11,062
+| {{Percentage bar|3.75|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2008 />
+|-
+| [[2008 United States House of Representatives elections|2008]]
+| Nathalie Hrizi
+| [[United States House of Representatives|House]]
+| California
+| [[California's 12th congressional district|12th]]
+| 5,793
+| {{Percentage bar|2.17|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2008 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Timothy Stock
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 3,503
+| {{Percentage bar|1.61|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Michael Roskey
+| [[United States House of Representatives|House]]
+| California
+| [[California's 3rd congressional district|3rd]]
+| 2,370
+| {{Percentage bar|1.04|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| John Reiger
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 2,018
+| {{Percentage bar|1.35|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Lynda Llamas
+| [[United States House of Representatives|House]]
+| California
+| [[California's 29th congressional district|29th]]
+| 2,599
+| {{Percentage bar|1.81|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Adele Cannon
+| [[United States House of Representatives|House]]
+| California
+| [[California's 30th congressional district|30th]]
+| 4,546
+| {{Percentage bar|2.15|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| James Smith
+| [[United States House of Representatives|House]]
+| California
+| [[California's 36th congressional district|36th]]
+| 4,592
+| {{Percentage bar|2.76|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Kevin Akin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 44th congressional district|44th]]
+| 4,486
+| {{Percentage bar|3|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States House of Representatives elections|2006]]
+| Miriam Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 50th congressional district|50th]]
+| 3,353
+| {{Percentage bar|1.51|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2006 United States Senate elections|2006]]
+| Marsha Feinland
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 117,764
+| {{Percentage bar|1.38|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2006 />
+|-
+| [[2004 United States House of Representatives elections|2004]]
+| John Reiger
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 3,670
+| {{Percentage bar|1.9|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[2004 United States House of Representatives elections|2004]]
+| Leilani Dowell
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 9,527
+| {{Percentage bar|3.53|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[2004 United States House of Representatives elections|2004]]
+| Joe Williams
+| [[United States House of Representatives|House]]
+| California
+| [[California's 17th congressional district|17th]]
+| 2,823
+| {{Percentage bar|1.26|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[2004 United States House of Representatives elections|2004]]
+| Alice Stek
+| [[United States House of Representatives|House]]
+| California
+| [[California's 36th congressional district|36th]]
+| 6,105
+| {{Percentage bar|2.5|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[2004 United States House of Representatives elections|2004]]
+| Kevin Akin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 44th congressional district|44th]]
+| 7,559
+| {{Percentage bar|3.36|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[2004 United States Senate elections|2004]]
+| Marsha Feinland
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 243,846
+| {{Percentage bar|2.02|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC2004 />
+|-
+| [[1998 United States House of Representatives elections|1998]]
+| Ernest Jones Jr
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 4,996
+| {{Percentage bar|2.54|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1998 />
+|-
+| [[1998 United States House of Representatives elections|1998]]
+| Gerald Sanders
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 4,767
+| {{Percentage bar|2.81|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1998 />
+|-
+| [[1998 United States House of Representatives elections|1998]]
+| Ralph Shroyer
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 1,860
+| {{Percentage bar|1.03|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1998 />
+|-
+| [[1998 United States House of Representatives elections|1998]]
+| Janice Jordan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 49th congressional district|49th]]
+| 2,447
+| {{Percentage bar|1.32|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1998 />
+|-
+| [[1998 United States Senate elections|1998]]
+| Ophie C. Beltran
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 48,685
+| {{Percentage bar|0.59|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1998 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Ernest Jones Jr
+| [[United States House of Representatives|House]]
+| California
+| [[California's 6th congressional district|6th]]
+| 6,459
+| {{Percentage bar|2.54|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Tom Condit
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 5,561
+| {{Percentage bar|2.77|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Timothy Thompson
+| [[United States House of Representatives|House]]
+| California
+| [[California's 14th congressional district|14th]]
+| 3,653
+| {{Percentage bar|1.59|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Ralph Shroyer
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 6,267
+| {{Percentage bar|2.92|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Justin Charles Gerber
+| [[United States House of Representatives|House]]
+| California
+| [[California's 25th congressional district|25th]]
+| 2,513
+| {{Percentage bar|1.28|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| John Peter Daly
+| [[United States House of Representatives|House]]
+| California
+| [[California's 29th congressional district|29th]]
+| 8,819
+| {{Percentage bar|4.11|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Shirley Mandel
+| [[United States House of Representatives|House]]
+| California
+| [[California's 30th congressional district|30th]]
+| 2,499
+| {{Percentage bar|3.1|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Kevin Akin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 43rd congressional district|43rd]]
+| 3,309
+| {{Percentage bar|1.86|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Miriam Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 51st congressional district|51st]]
+| 5,407
+| {{Percentage bar|2.36|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1996 United States House of Representatives elections|1996]]
+| Janice Jordan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 52nd congressional district|52nd]]
+| 3,649
+| {{Percentage bar|2.05|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1996 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Ernest Jones Jr
+| [[United States House of Representatives|House]]
+| California
+| [[California's 6th congressional district|6th]]
+| 4,055
+| {{Percentage bar|1.71|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| William ""Bill"" Callison
+| [[United States House of Representatives|House]]
+| California
+| [[California's 7th congressional district|7th]]
+| 4,798
+| {{Percentage bar|2.88|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Emma Wong Mar
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 9,194
+| {{Percentage bar|5.14|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Craig Cooper
+| [[United States House of Representatives|House]]
+| California
+| [[California's 10th congressional district|10th]]
+| 4,802
+| {{Percentage bar|2.05|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| John Honigsfeld
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 6,099
+| {{Percentage bar|4.83|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Kermit Booker
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 7,694
+| {{Percentage bar|18.54|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Richard Green
+| [[United States House of Representatives|House]]
+| California
+| [[California's 38th congressional district|38th]]
+| 2,995
+| {{Percentage bar|2.05|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Donna White
+| [[United States House of Representatives|House]]
+| California
+| [[California's 48th congressional district|48th]]
+| 8,543
+| {{Percentage bar|4.37|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Renate Kline
+| [[United States House of Representatives|House]]
+| California
+| [[California's 49th congressional district|49th]]
+| 4,948
+| {{Percentage bar|2.66|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Guillermo Ramirez
+| [[United States House of Representatives|House]]
+| California
+| [[California's 50th congressional district|50th]]
+| 3,002
+| {{Percentage bar|2.87|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Miriam Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 51st congressional district|51st]]
+| 4,099
+| {{Percentage bar|1.98|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States House of Representatives elections|1994]]
+| Art Edelman
+| [[United States House of Representatives|House]]
+| California
+| [[California's 52nd congressional district|52nd]]
+| 3,221
+| {{Percentage bar|1.89|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1994 United States Senate elections|1994]]
+| Elizabeth Cervantes Barron
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 255,301
+| {{Percentage bar|3|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1994 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Phil Baldwin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 10,764
+| {{Percentage bar|4.28|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| David Franklin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 7th congressional district|7th]]
+| 9,840
+| {{Percentage bar|4.51|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Cesar Cadabes
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 7,572
+| {{Percentage bar|3.25|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Dave Linn
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 10,472
+| {{Percentage bar|4.58|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Mary Weldon
+| [[United States House of Representatives|House]]
+| California
+| [[California's 12th congressional district|12th]]
+| 10,142
+| {{Percentage bar|4.44|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Roslyn Allen
+| [[United States House of Representatives|House]]
+| California
+| [[California's 13th congressional district|13th]]
+| 16,768
+| {{Percentage bar|8.16|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| David Wald
+| [[United States House of Representatives|House]]
+| California
+| [[California's 14th congressional district|14th]]
+| 3,912
+| {{Percentage bar|1.51|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Amani Kuumba
+| [[United States House of Representatives|House]]
+| California
+| [[California's 16th congressional district|16th]]
+| 9,370
+| {{Percentage bar|6.01|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Maureen Smith
+| [[United States House of Representatives|House]]
+| California
+| [[California's 17th congressional district|17th]]
+| 4,804
+| {{Percentage bar|2.28|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Dorothy Wells
+| [[United States House of Representatives|House]]
+| California
+| [[California's 19th congressional district|19th]]
+| 13,334
+| {{Percentage bar|6.15|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| John Paul Linblad
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 13,690
+| {{Percentage bar|5.36|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Nancy Lawrence
+| [[United States House of Representatives|House]]
+| California
+| [[California's 25th congressional district|25th]]
+| 5,090
+| {{Percentage bar|2.33|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Margery Hinds
+| [[United States House of Representatives|House]]
+| California
+| [[California's 26th congressional district|26th]]
+| 7,180
+| {{Percentage bar|5.94|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Margaret Edwards
+| [[United States House of Representatives|House]]
+| California
+| [[California's 27th congressional district|27th]]
+| 7,329
+| {{Percentage bar|3.45|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Susan Davies
+| [[United States House of Representatives|House]]
+| California
+| [[California's 29th congressional district|29th]]
+| 13,888
+| {{Percentage bar|5.31|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Elizabeth Nakano
+| [[United States House of Representatives|House]]
+| California
+| [[California's 30th congressional district|30th]]
+| 6,173
+| {{Percentage bar|7.39|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| William Williams
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 9,782
+| {{Percentage bar|5.66|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Tim Delia
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 2,135
+| {{Percentage bar|4.2|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Alice Mae Miles
+| [[United States House of Representatives|House]]
+| California
+| [[California's 35th congressional district|35th]]
+| 2,797
+| {{Percentage bar|2.24|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Owen Staley
+| [[United States House of Representatives|House]]
+| California
+| [[California's 36th congressional district|36th]]
+| 13,297
+| {{Percentage bar|3.78|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| B Kwaku Duren
+| [[United States House of Representatives|House]]
+| California
+| [[California's 37th congressional district|37th]]
+| 16,178
+| {{Percentage bar|14.27|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Paul Burton
+| [[United States House of Representatives|House]]
+| California
+| [[California's 38th congressional district|38th]]
+| 8,391
+| {{Percentage bar|4.43|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Margie Akin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 40th congressional district|40th]]
+| 11,839
+| {{Percentage bar|5.77|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Mike Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 41st congressional district|41st]]
+| 10,136
+| {{Percentage bar|5.94|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Macine Wuirk
+| [[United States House of Representatives|House]]
+| California
+| [[California's 47th congressional district|47th]]
+| 12,297
+| {{Percentage bar|4.84|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Donna White
+| [[United States House of Representatives|House]]
+| California
+| [[California's 48th congressional district|48th]]
+| 13,396
+| {{Percentage bar|5.81|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Wilton Zaslow
+| [[United States House of Representatives|House]]
+| California
+| [[California's 49th congressional district|49th]]
+| 4,738
+| {{Percentage bar|1.9|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Roger Batchelder
+| [[United States House of Representatives|House]]
+| California
+| [[California's 50th congressional district|50th]]
+| 4,250
+| {{Percentage bar|3.11|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Miriam Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 51st congressional district|51st]]
+| 10,307
+| {{Percentage bar|4.07|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States House of Representatives elections|1992]]
+| Dennis Gretsinger
+| [[United States House of Representatives|House]]
+| California
+| [[California's 52nd congressional district|52nd]]
+| 5,734
+| {{Percentage bar|2.68|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States Senate elections|1992]]
+| Gerald Horne
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 305,697
+| {{Percentage bar|2.84|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1992 United States Senate elections|1992]]
+| Genevieve Torres
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 372,817
+| {{Percentage bar|3.45|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1992 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Darlene Comingore
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 34,011
+| {{Percentage bar|14.77|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Jan Tucker
+| [[United States House of Representatives|House]]
+| California
+| [[California's 22nd congressional district|22nd]]
+| 3,963
+| {{Percentage bar|2.19|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| John Honigsfeld
+| [[United States House of Representatives|House]]
+| California
+| [[California's 23rd congressional district|23rd]]
+| 6,834
+| {{Percentage bar|4.09|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Maggie Phair
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 5,706
+| {{Percentage bar|5.49|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Edward Ferrer
+| [[United States House of Representatives|House]]
+| California
+| [[California's 27th congressional district|27th]]
+| 7,101
+| {{Percentage bar|4.55|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| William Williams
+| [[United States House of Representatives|House]]
+| California
+| [[California's 28th congressional district|28th]]
+| 2,723
+| {{Percentage bar|2.85|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Maxine Quirk
+| [[United States House of Representatives|House]]
+| California
+| [[California's 39th congressional district|39th]]
+| 6,709
+| {{Percentage bar|3.85|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Karen R Works
+| [[United States House of Representatives|House]]
+| California
+| [[California's 41st congressional district|41st]]
+| 15,428
+| {{Percentage bar|7.18|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Doug Hansen
+| [[United States House of Representatives|House]]
+| California
+| [[California's 43rd congressional district|43rd]]
+| 40,212
+| {{Percentage bar|18.1|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1990 United States House of Representatives elections|1990]]
+| Donna White
+| [[United States House of Representatives|House]]
+| California
+| [[California's 44th congressional district|44th]]
+| 5,237
+| {{Percentage bar|4.82|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1990 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Eric Fried
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 22,150
+| {{Percentage bar|8.72|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Theodore ""Ted"" Zuur
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 3,975
+| {{Percentage bar|2.27|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Tom Condit
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 5,444
+| {{Percentage bar|2.22|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Victor Martinez
+| [[United States House of Representatives|House]]
+| California
+| [[California's 11th congressional district|11th]]
+| 2,906
+| {{Percentage bar|1.42|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Shirley Rachel Isaacson
+| [[United States House of Representatives|House]]
+| California
+| [[California's 22nd congressional district|22nd]]
+| 6,298
+| {{Percentage bar|2.66|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| John Honigsfeld
+| [[United States House of Representatives|House]]
+| California
+| [[California's 23rd congressional district|23rd]]
+| 3,316
+| {{Percentage bar|1.42|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| James Green
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 3,571
+| {{Percentage bar|2.3|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Paul Reyes
+| [[United States House of Representatives|House]]
+| California
+| [[California's 25th congressional district|25th]]
+| 8,746
+| {{Percentage bar|8.76|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Salomea Honigsfeld
+| [[United States House of Representatives|House]]
+| California
+| [[California's 28th congressional district|28th]]
+| 2,811
+| {{Percentage bar|1.95|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| B Kwaku Duren
+| [[United States House of Representatives|House]]
+| California
+| [[California's 31st congressional district|31st]]
+| 4,091
+| {{Percentage bar|2.9|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Vikki Murdock
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 4,032
+| {{Percentage bar|2.35|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Mike Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 3,492
+| {{Percentage bar|1.59|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Frank German
+| [[United States House of Representatives|House]]
+| California
+| [[California's 38th congressional district|38th]]
+| 3,547
+| {{Percentage bar|2.41|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Gretchen Farsai
+| [[United States House of Representatives|House]]
+| California
+| [[California's 40th congressional district|40th]]
+| 3,699
+| {{Percentage bar|1.37|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| C Weber
+| [[United States House of Representatives|House]]
+| California
+| [[California's 41st congressional district|41st]]
+| 4,853
+| {{Percentage bar|1.7|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States House of Representatives elections|1988]]
+| Richard Rose
+| [[United States House of Representatives|House]]
+| California
+| [[California's 42nd congressional district|42nd]]
+| 6,563
+| {{Percentage bar|2.75|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1988 United States Senate elections|1988]]
+| M. Elizabeth Munoz
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 166,600
+| {{Percentage bar|1.71|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1988 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Elden Mcfarland
+| [[United States House of Representatives|House]]
+| California
+| [[California's 1st congressional district|1st]]
+| 12,149
+| {{Percentage bar|5.93|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Theodore ""Ted"" Zuur
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 2,078
+| {{Percentage bar|1.27|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Lawrence Manuel
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 4,295
+| {{Percentage bar|2.12|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Bradley Mayer
+| [[United States House of Representatives|House]]
+| California
+| [[California's 10th congressional district|10th]]
+| 1,701
+| {{Percentage bar|1.42|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Ron Wright
+| [[United States House of Representatives|House]]
+| California
+| [[California's 16th congressional district|16th]]
+| 2,017
+| {{Percentage bar|1.23|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Joel Lorimer
+| [[United States House of Representatives|House]]
+| California
+| [[California's 22nd congressional district|22nd]]
+| 2,930
+| {{Percentage bar|1.53|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Tom Hopke
+| [[United States House of Representatives|House]]
+| California
+| [[California's 23rd congressional district|23rd]]
+| 2,521
+| {{Percentage bar|1.36|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| James Green
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 5,388
+| {{Percentage bar|4.56|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Thomas O'connor Jr
+| [[United States House of Representatives|House]]
+| California
+| [[California's 27th congressional district|27th]]
+| 2,078
+| {{Percentage bar|1.2|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| B Kwaku Duren
+| [[United States House of Representatives|House]]
+| California
+| [[California's 31st congressional district|31st]]
+| 2,333
+| {{Percentage bar|2.13|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| John Donohue
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 2,799
+| {{Percentage bar|2.11|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Mike Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 2,500
+| {{Percentage bar|1.51|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Frank Boeheim
+| [[United States House of Representatives|House]]
+| California
+| [[California's 39th congressional district|39th]]
+| 2,752
+| {{Percentage bar|1.56|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Steve Sears
+| [[United States House of Representatives|House]]
+| California
+| [[California's 40th congressional district|40th]]
+| 5,025
+| {{Percentage bar|2.51|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Kate Mcclatchy
+| [[United States House of Representatives|House]]
+| California
+| [[California's 42nd congressional district|42nd]]
+| 4,761
+| {{Percentage bar|2.47|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States House of Representatives elections|1986]]
+| Shirley Isaacson
+| [[United States House of Representatives|House]]
+| California
+| [[California's 44th congressional district|44th]]
+| 1,676
+| {{Percentage bar|1.53|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1986 United States Senate elections|1986]]
+| Paul Kangas
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 33,869
+| {{Percentage bar|0.46|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1986 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Henry Clark
+| [[United States House of Representatives|House]]
+| California
+| [[California's 5th congressional district|5th]]
+| 3,574
+| {{Percentage bar|1.85|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Charles John Zekan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 19th congressional district|19th]]
+| 4,161
+| {{Percentage bar|1.83|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| James Green
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 2,780
+| {{Percentage bar|1.81|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Thomas O'connor Jr
+| [[United States House of Representatives|House]]
+| California
+| [[California's 27th congressional district|27th]]
+| 3,815
+| {{Percentage bar|1.79|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Patrick Mccoy
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 2,051
+| {{Percentage bar|1.21|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Mike Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 2,371
+| {{Percentage bar|1.14|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Kevin Akin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 35th congressional district|35th]]
+| 29,990
+| {{Percentage bar|14.53|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Michael Schuyles Bright
+| [[United States House of Representatives|House]]
+| California
+| [[California's 38th congressional district|38th]]
+| 3,021
+| {{Percentage bar|1.86|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| Maxine Bell Quirk
+| [[United States House of Representatives|House]]
+| California
+| [[California's 40th congressional district|40th]]
+| 3,969
+| {{Percentage bar|1.56|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1984 United States House of Representatives elections|1984]]
+| John Donohue
+| [[United States House of Representatives|House]]
+| California
+| [[California's 42nd congressional district|42nd]]
+| 5,811
+| {{Percentage bar|2.39|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=FEC1984 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Howard Fegarsky
+| [[United States House of Representatives|House]]
+| California
+| [[California's 2nd congressional district|2nd]]
+| 3,126
+| {{Percentage bar|1.56|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| John Reiger
+| [[United States House of Representatives|House]]
+| California
+| [[California's 3rd congressional district|3rd]]
+| 6,294
+| {{Percentage bar|2.9|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Timothy-Allen Albertson
+| [[United States House of Representatives|House]]
+| California
+| [[California's 6th congressional district|6th]]
+| 2,366
+| {{Percentage bar|1.29|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Wilson Branch
+| [[United States House of Representatives|House]]
+| California
+| [[California's 11th congressional district|11th]]
+| 1,928
+| {{Percentage bar|1|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Charles Zekan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 19th congressional district|19th]]
+| 1,520
+| {{Percentage bar|0.82|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Eugene Ruyle
+| [[United States House of Representatives|House]]
+| California
+| [[California's 32nd congressional district|32nd]]
+| 3,473
+| {{Percentage bar|2.38|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| James Michael Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 33rd congressional district|33rd]]
+| 2,223
+| {{Percentage bar|1.29|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Frank Boeheim
+| [[United States House of Representatives|House]]
+| California
+| [[California's 39th congressional district|39th]]
+| 3,152
+| {{Percentage bar|1.76|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| Maxine Bell Quirk
+| [[United States House of Representatives|House]]
+| California
+| [[California's 40th congressional district|40th]]
+| 4,826
+| {{Percentage bar|2.39|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States House of Representatives elections|1982]]
+| John Donohue
+| [[United States House of Representatives|House]]
+| California
+| [[California's 42nd congressional district|42nd]]
+| 5,514
+| {{Percentage bar|2.66|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1982 United States Senate elections|1982]]
+| David Wald
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 96,388
+| {{Percentage bar|1.23|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1982 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Linda Wren
+| [[United States House of Representatives|House]]
+| California
+| [[California's 2nd congressional district|2nd]]
+| 3,354
+| {{Percentage bar|1.28|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Wilson Branch
+| [[United States House of Representatives|House]]
+| California
+| [[California's 11th congressional district|11th]]
+| 13,723
+| {{Percentage bar|7.42|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Adele Fumino
+| [[United States House of Representatives|House]]
+| California
+| [[California's 12th congressional district|12th]]
+| 3,184
+| {{Percentage bar|1.6|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Robert Goldsborough
+| [[United States House of Representatives|House]]
+| California
+| [[California's 13th congressional district|13th]]
+| 3,791
+| {{Percentage bar|1.69|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Jan Tucker
+| [[United States House of Representatives|House]]
+| California
+| [[California's 21st congressional district|21st]]
+| 2,038
+| {{Percentage bar|1.33|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| Maggie Feigin
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 5,905
+| {{Percentage bar|4.02|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| John Donohue
+| [[United States House of Representatives|House]]
+| California
+| [[California's 34th congressional district|34th]]
+| 7,794
+| {{Percentage bar|4.06|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States House of Representatives elections|1980]]
+| James Michael ""Mike"" Noonan
+| [[United States House of Representatives|House]]
+| California
+| [[California's 35th congressional district|35th]]
+| 5,492
+| {{Percentage bar|2.82|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1980 United States Senate elections|1980]]
+| David Wald
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 196,260
+| {{Percentage bar|2.36|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1980 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Irv Sutley
+| [[United States House of Representatives|House]]
+| California
+| [[California's 2nd congressional district|2nd]]
+| 6,097
+| {{Percentage bar|2.77|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Lawrence Phillips
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 5,562
+| {{Percentage bar|4.12|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Adele Fumino
+| [[United States House of Representatives|House]]
+| California
+| [[California's 12th congressional district|12th]]
+| 3,022
+| {{Percentage bar|1.89|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Robert Goldsborough Iii
+| [[United States House of Representatives|House]]
+| California
+| [[California's 13th congressional district|13th]]
+| 5,246
+| {{Percentage bar|2.99|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Milton Shiro Takei
+| [[United States House of Representatives|House]]
+| California
+| [[California's 19th congressional district|19th]]
+| 6,887
+| {{Percentage bar|4.01|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Bill Hill
+| [[United States House of Representatives|House]]
+| California
+| [[California's 21st congressional district|21st]]
+| 5,750
+| {{Percentage bar|4.63|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1978 United States House of Representatives elections|1978]]
+| Kevin Casey Peters
+| [[United States House of Representatives|House]]
+| California
+| [[California's 24th congressional district|24th]]
+| 6,453
+| {{Percentage bar|4.75|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1978 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Robert Allred
+| [[United States House of Representatives|House]]
+| California
+| [[California's 2nd congressional district|2nd]]
+| 6,444
+| {{Percentage bar|2.98|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Emily Siegel
+| [[United States House of Representatives|House]]
+| California
+| [[California's 6th congressional district|6th]]
+| 6,570
+| {{Percentage bar|5.02|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Robert Evans
+| [[United States House of Representatives|House]]
+| California
+| [[California's 8th congressional district|8th]]
+| 6,238
+| {{Percentage bar|3.17|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Albert Sargis
+| [[United States House of Representatives|House]]
+| California
+| [[California's 9th congressional district|9th]]
+| 3,386
+| {{Percentage bar|2.06|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Bill Hill
+| [[United States House of Representatives|House]]
+| California
+| [[California's 21st congressional district|21st]]
+| 7,178
+| {{Percentage bar|4.69|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States House of Representatives elections|1976]]
+| Marilyn Seals
+| [[United States House of Representatives|House]]
+| California
+| [[California's 25th congressional district|25th]]
+| 4,922
+| {{Percentage bar|6.1|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|-
+| [[1976 United States Senate elections|1976]]
+| David Wald
+| [[United States Senate|Senate]]
+| California
+| At-Large
+| 104,383
+| {{Percentage bar|1.4|hex=FF0000}}
+| {{no2}} Lost
+| 
+| <ref name=HC1976 />
+|}

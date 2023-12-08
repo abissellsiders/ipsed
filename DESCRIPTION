@@ -1,21 +1,20 @@
-Package: ipsed
-Title: International Political, Social, and Economic Data
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Aidan",
-           family = "Bissell-Siders",
-           role = c("aut", "cre"),
-           email = "aidan.bissell.siders@gmail.com",
-           comment = c(ORCID = "0000-0002-6180-8324"))
-Description: A collection of political, social, and economic datasets formatted to allow between-country comparison. Datasets included: Clio Infra (2014), From Empire to Nation-state (2006), Maddison Project (2018), Penn World Table 9.1 (2019), Polity 5 (2020), World Inequality Database (2020)
-License: `use_mit_license()`
+Package: pesdint
+Type: Package
+Title: Political Economic and Social Datasets with INTernational scope (PESDINT)
+Version: 2023.02.09
+Author: person("Aidan", "Bissell-Siders", , "a.bissell.siders@gmail.com", role = c("aut", "cre"))
+Maintainer: Aidan Bissell-Siders <a.bissell.siders@gmail.com>
+Description: A collection of datasets about political, economic, and social relations in the world.
+License: CC0
 Encoding: UTF-8
 LazyData: true
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
-Imports:
-    data.table (>= 1.12.8),
-	readxl (>= 1.3.1),
-	XML (>= 3.99)
-Depends: 
-    R (>= 3.3.0)
+RoxygenNote: 7.2.0
+Depends:
+    R (>= 2.10),
+    data.table,
+	fredr,
+	stringr
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
